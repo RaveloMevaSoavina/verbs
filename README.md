@@ -7,8 +7,8 @@ class VerbDictionnary
  |  ----------------------------------------------------------------------
  |  conjugate(self, verbe: str, timecode: str, entitycode: str = '') -> (<class 'list'>, <class 'dict'>)
  |      Pour un verbe infinitif donné, renvoie la/les conjugaison(s) de ce verbe en fonction des indications
- |      timecode : code de temps de la conjugaison recherchée
- |      entitycode : code d'entité de la conjugaison recherchée
+ |      timecode : code de temps de la conjugaison recherchée (voir dans ``constants.py`` les timecodes valides)
+ |      entitycode : code d'entité de la conjugaison recherchée (voir dans ``constants.py`` les entitycodes valides)
  |          -> (si absent renvoie la conjugaison pour toutes les personnes du temps)
  |  ----------------------------------------------------------------------
  |  group2verbs(self, groupe: int) -> list
