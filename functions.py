@@ -17,7 +17,7 @@ def write_word_file(filepath, data):
 
 def write_conj_file(filepath, data):
     with open(filepath, mode='w', encoding='utf-8') as file:
-        file.write(','.join(ENTITYCODES)+'\n')
+        file.write(','.join(ENTITYCODES) + '\n')
         file.write('\n'.join(
             timecode + ':' + ','.join(terms.get(entitycode, '') for entitycode in ENTITYCODES) for timecode, terms in
             data.items()))
@@ -58,3 +58,7 @@ def close_words(text, aliases, threshold=0.75):
         sequence = difflib.SequenceMatcher(isjunk=None, a=text, b=alias)
         if sequence.ratio() >= threshold:
             yield alias, sequence.ratio()
+
+
+def indent(s, i='    '):
+    return '\n'.join(i + l for l in s.split('\n'))
