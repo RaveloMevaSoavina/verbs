@@ -82,8 +82,8 @@ class VerbDictionnary:
 
     def toXMLFile(self, filepath):
         """
-            Export the dict to an xml file
-            /!\ be careful, this operation is long and create a massive file (+ 14 MB)
+            Exporte le dictionnaire au format xml
+            /!\ attention cette opération peut être longue et crée un fichier massif (+ de 14 MB)
         """
         assert not os.path.exists(filepath)
         assert filepath.endswith('.xml')
