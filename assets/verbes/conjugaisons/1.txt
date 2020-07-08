@@ -1,0 +1,11 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:e,es,e,ons,ez,ent,,,,,,,,,,,,
+indicatif imparfait:ais,ais,ait,ions,iez,aient,,,,,,,,,,,,
+indicatif futur simple:erai,eras,era,erons,erez,eront,,,,,,,,,,,,
+indicatif passé simple:ai,as,a,âmes,âtes,èrent,,,,,,,,,,,,
+subjonctif présent:e,es,e,ions,iez,ent,,,,,,,,,,,,
+subjonctif imparfait:asse,asses,ât,assions,assiez,assent,,,,,,,,,,,,
+conditionnel présent:erais,erais,erait,erions,eriez,eraient,,,,,,,,,,,,
+impératif présent:,e,,ons,ez,,,,,,,,,,,,,
+participe présent:,,ant,,,,,,,,,,,,,,,
+participe passé:,,,,,,,,é,,,és,,,ée,,,ées
