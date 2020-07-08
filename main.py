@@ -80,6 +80,38 @@ class VerbDictionnary:
         for groupe, data in D.groupes.items():
             write_word_file(f'{dirpath}\\infinitifs\\{groupe}.txt', data)
 
+    def toXMLFile(self, filepath):
+        """
+            Export the dict to an xml file
+            /!\ be careful, this operation is long and create a massive file (+ 14 MB)
+        """
+        assert not os.path.exists(filepath)
+        assert filepath.endswith('.xml')
+        from bs4 import BeautifulSoup
+
+        xml = BeautifulSoup(features="html.parser")
+        xml_dict = xml.new_tag("dict")
+        xml.append(xml_dict)
+
+        for groupe in self.groupes:
+            for verbe in self.group2verbs(groupe):
+                xml_verb = xml.new_tag("verbe", infinitif=verbe, groupe=groupe)
+                xml_dict.append(xml_verb)
+
+                for timecode in TIMECODES:
+                    xml_conj = xml.new_tag("conj", timecode=timecode)
+                    try:
+                        for entity, words in self.conjugate(verbe, timecode).items():
+                            xml_unit = xml.new_tag("unit", entity=entity)
+                            xml_conj.append(xml_unit)
+                            xml_unit.string = ",".join(words)
+                        xml_verb.append(xml_conj)
+                    except:
+                        pass
+
+        with open(filepath, mode='w', encoding='utf-8') as file:
+            file.write(str(xml))
+
 
 def mise_en_forme(data):
     pronoms = {
@@ -102,6 +134,9 @@ def mise_en_forme(data):
 
 if __name__ == '__main__':
     D = VerbDictionnary.fromDir('assets\\verbes')
+
+    # # génère un fichier xml représentatif du dictionnaire (génère toutes les conjugaisons faisables)
+    # D.toXMLFile('verb_dict.xml')
 
     # # compte le temps pris pour conjuguer tous les verbes du groupe 1 et 2 à tous les temps et toutes les personnes
     # import time
