@@ -132,27 +132,35 @@ class VerbDictionnary:
         with open(filepath, mode='w', encoding='utf-8') as file:
             file.write(str(xml))
 
-    def toCSV(self, filepath: str) -> None:
+    def toCSV(self, infinitives: str, conjugated: str) -> None:
         """
         Exporte le dictionnaire de verbe sous la form d'un fichier csv
-        :param filepath: Le chemin du fichier
+        :param infinitives: Le chemin du fichier pour les infinitifs
+        :param conjugated: Le chemin du fichier pour les conjugaisons
         :return: None
         """
-        if not filepath.endswith('.csv'):
-            filepath += '.csv'
-        assert not os.path.exists(filepath)
-        with open(filepath, mode='w', encoding='utf-8') as file:
-            file.write(f'forme, groupe, verbe, timecode, entitycode')
-            for groupe in self.groupes:
-                for verbe in self.group2verbs(groupe):
-                    for timecode in TIMECODES:
-                        try:
-                            conj = self.conjugate(verbe, timecode)
-                        except:
-                            conj = {}
-                        for entitycode, formes in conj.items():
-                            for forme in formes:
-                                file.write(f'\n{forme}, {groupe}, {verbe}, {timecode}, {entitycode}')
+        if not infinitives.endswith('.csv'):
+            infinitives += '.csv'
+        assert not os.path.exists(infinitives)
+        if not conjugated.endswith('.csv'):
+            conjugated += '.csv'
+        assert not os.path.exists(conjugated)
+        with open(infinitives, mode='w', encoding='utf-8') as file_infinitives:
+            with open(conjugated, mode='w', encoding='utf-8') as file_conjugated:
+                file_conjugated.write(f'forme, groupe, verbe, timecode, entitycode')
+                file_infinitives.write(f'verbe, groupe')
+                for groupe in self.groupes:
+                    for verbe in self.group2verbs(groupe):
+                        file_infinitives.write(f'\n{verbe}, {groupe}')
+                        for timecode in TIMECODES:
+                            try:
+                                conj = self.conjugate(verbe, timecode)
+                            except:
+                                conj = {}
+                            for entitycode, formes in conj.items():
+                                for forme in formes:
+                                    file_conjugated.write(f'\n{forme}, {groupe}, {verbe}, {timecode}, {entitycode}')
+
 
 def mise_en_forme(data):
     pronoms = {
