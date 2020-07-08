@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:confonds,confonds,confond,confondons,confondez,confondent,,,,,,,,,,,,
+indicatif imparfait:confondais,confondais,confondait,confondions,confondiez,confondaient,,,,,,,,,,,,
+indicatif futur simple:confondrai,confondras,confondra,confondrons,confondrez,confondront,,,,,,,,,,,,
+indicatif passé simple:confondis,confondis,confondit,confondîmes,confondîtes,confondirent,,,,,,,,,,,,
+subjonctif présent:confonde,confondes,confonde,confondions,confondiez,confondent,,,,,,,,,,,,
+subjonctif imparfait:confondisse,confondisses,confondÃ®t,confondissions,confondissiez,confondissent,,,,,,,,,,,,
+conditionnel présent:confondrais,confondrais,confondrait,confondrions,confondriez,confondraient,,,,,,,,,,,,
+impératif présent:,confonds,,confondons,confondez,,,,,,,,,,,,,
+participe présent:,,confondant,,,,,,,,,,,,,,,

@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:ébats,ébats,,ébattons,ébattez,ébattent,,,,,,,,,,,,
+indicatif imparfait:ébattais,ébattais,ébattait,ébattions,ébattiez,ébattaient,,,,,,,,,,,,
+indicatif futur simple:ébattrai,ébattras,ébattra,ébattrons,ébattrez,ébattront,,,,,,,,,,,,
+indicatif passé simple:ébattis,ébattis,ébattit,ébattîmes,ébattîtes,ébattirent,,,,,,,,,,,,
+subjonctif présent:ébatte,ébattes,ébatte,ébattions,ébattiez,ébattent,,,,,,,,,,,,
+subjonctif imparfait:ébattisse,ébattisses,ébattît,ébattissions,ébattissiez,ébattissent,,,,,,,,,,,,
+conditionnel présent:ébattrais,ébattrais,ébattrait,ébattrions,ébattriez,ébattraient,,,,,,,,,,,,
+impératif présent:,ébats,,ébattons,ébattez,,,,,,,,,,,,,
+participe présent:,,Ã©battant,,,,,,,,,,,,,,,

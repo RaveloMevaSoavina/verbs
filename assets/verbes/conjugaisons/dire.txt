@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:dis,dis,dit,disons,dites,disent,,,,,,,,,,,,
+indicatif imparfait:disais,disais,disait,disions,disiez,disaient,,,,,,,,,,,,
+indicatif futur simple:dirai,diras,dira,dirons,direz,diront,,,,,,,,,,,,
+indicatif passé simple:dis,dis,dit,dîmes,dîtes,dirent,,,,,,,,,,,,
+subjonctif présent:dise,dises,dise,disions,disiez,disent,,,,,,,,,,,,
+subjonctif imparfait:disse,disses,dÃ®t,dissions,dissiez,dissent,,,,,,,,,,,,
+conditionnel présent:dirais,dirais,dirait,dirions,diriez,diraient,,,,,,,,,,,,
+impératif présent:,dis,,disons,dites,,,,,,,,,,,,,
+participe présent:,,disant,,,,,,,,,,,,,,,

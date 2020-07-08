@@ -4,18 +4,18 @@ import difflib
 from constants import ENTITYCODES
 
 
-def read_word_file(filepath):
+def read_word_file(filepath: str):
     assert os.path.exists(filepath) and os.path.isfile(filepath) and filepath.endswith('.txt')
     with open(filepath, mode='r', encoding='utf-8') as file:
         return list(filter(len, map(str.strip, file.readlines())))
 
 
-def write_word_file(filepath, data):
+def write_word_file(filepath: str, data: dict):
     with open(filepath, mode='w', encoding='utf-8') as file:
         file.write('\n'.join(map(str.strip, data)))
 
 
-def write_conj_file(filepath, data):
+def write_conj_file(filepath: str, data: dict):
     with open(filepath, mode='w', encoding='utf-8') as file:
         file.write(','.join(ENTITYCODES) + '\n')
         file.write('\n'.join(
@@ -23,42 +23,49 @@ def write_conj_file(filepath, data):
             data.items()))
 
 
-def read_conj_file(filepath):
+def read_conj_file(filepath: str, full: bool = False):
     assert os.path.exists(filepath) and os.path.isfile(filepath) and filepath.endswith('.txt')
     with open(filepath, mode='r', encoding='utf-8') as file:
         entitycodes = list(map(str.strip, file.readline().strip().split(',')))
         result = {}
         for line in filter(len, map(str.strip, file.readlines())):
             if ':' in line:
-                timecode, terms = map(str.strip, line.split(':'))
-                result[timecode] = dict(
-                    (entitycode, term) for entitycode, term in zip(entitycodes, map(str.strip, terms.split(','))) if
-                    term)
+                timecode, terms_string = map(str.strip, line.split(':'))
+                conjugaison = {}
+                terminaisons = map(str.strip, terms_string.split(','))
+                for entitycode, terminaison in zip(entitycodes, terminaisons):
+                    if terminaison:
+                        if full:
+                            conjugaison[entitycode] = list(map(str.strip, terminaison.split('/')))
+                        else:
+                            conjugaison[entitycode] = terminaison
+                result[timecode] = conjugaison
         return result
 
 
-def endswith(string, *ends):
+def endswith(string: str, *ends):
     return any(map(string.endswith, ends))
 
 
-def startswith(string, *starts):
+def startswith(string: str, *starts):
     return any(map(string.startswith, starts))
 
 
-def est_atone(terminaison):
+def est_atone(terminaison: str):
     return terminaison in ('e', 'es')
 
 
-def est_muette(terminaison):
+def est_muette(terminaison: str):
     return terminaison in ('e', 'es')
 
 
-def close_words(text, aliases, threshold=0.75):
+def close_words(text: str, aliases, threshold: float = 0.75):
+    assert 0 <= threshold <= 1
     for alias in aliases:
         sequence = difflib.SequenceMatcher(isjunk=None, a=text, b=alias)
         if sequence.ratio() >= threshold:
             yield alias, sequence.ratio()
 
 
-def indent(s, i='    '):
+def indent(s: str, i: str = '    '):
     return '\n'.join(i + l for l in s.split('\n'))

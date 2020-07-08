@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:mévends,mévends,mévend,mévendons,mévendez,mévendent,,,,,,,,,,,,
+indicatif imparfait:mévendais,mévendais,mévendait,mévendions,mévendiez,mévendaient,,,,,,,,,,,,
+indicatif futur simple:mévendrai,mévendras,mévendra,mévendrons,mévendrez,mévendront,,,,,,,,,,,,
+indicatif passé simple:mévendis,mévendis,mévendit,mévendîmes,mévendîtes,mévendirent,,,,,,,,,,,,
+subjonctif présent:mévende,mévendes,mévende,mévendions,mévendiez,mévendent,,,,,,,,,,,,
+subjonctif imparfait:mévendisse,mévendisses,mévendît,mévendissions,mévendissiez,mévendissent,,,,,,,,,,,,
+conditionnel présent:mévendrais,mévendrais,mévendrait,mévendrions,mévendriez,mévendraient,,,,,,,,,,,,
+impératif présent:,mévends,,mévendons,mévendez,,,,,,,,,,,,,
+participe présent:,,mévendant,,,,,,,,,,,,,,,

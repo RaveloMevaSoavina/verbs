@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:réponds,réponds,répond,répondons,répondez,répondent,,,,,,,,,,,,
+indicatif imparfait:répondais,répondais,répondait,répondions,répondiez,répondaient,,,,,,,,,,,,
+indicatif futur simple:répondrai,répondras,répondra,répondrons,répondrez,répondront,,,,,,,,,,,,
+indicatif passé simple:répondis,répondis,répondit,répondîmes,répondîtes,répondirent,,,,,,,,,,,,
+subjonctif présent:réponde,répondes,réponde,répondions,répondiez,répondent,,,,,,,,,,,,
+subjonctif imparfait:répondisse,répondisses,répondît,répondissions,répondissiez,répondissent,,,,,,,,,,,,
+conditionnel présent:répondrais,répondrais,répondrait,répondrions,répondriez,répondraient,,,,,,,,,,,,
+impératif présent:,réponds,,répondons,répondez,,,,,,,,,,,,,
+participe présent:,,répondant,,,,,,,,,,,,,,,

@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:souscris,souscris,souscrit,souscrivons,souscrivez,souscrivent,,,,,,,,,,,,
+indicatif imparfait:souscrivais,souscrivais,souscrivait,souscrivions,souscriviez,souscrivaient,,,,,,,,,,,,
+indicatif futur simple:souscrirai,souscriras,souscrira,souscrirons,souscrirez,souscriront,,,,,,,,,,,,
+indicatif passé simple:souscrivis,souscrivis,souscrivit,souscrivîmes,souscrivîtes,souscrivirent,,,,,,,,,,,,
+subjonctif présent:souscrive,souscrives,souscrive,souscrivions,souscriviez,souscrivent,,,,,,,,,,,,
+subjonctif imparfait:souscrivisse,souscrivisses,souscrivÃ®t,souscrivissions,souscrivissiez,souscrivissent,,,,,,,,,,,,
+conditionnel présent:souscrirais,souscrirais,souscrirait,souscririons,souscririez,souscriraient,,,,,,,,,,,,
+impératif présent:,souscris,,souscrivons,souscrivez,,,,,,,,,,,,,
+participe présent:,,souscrivant,,,,,,,,,,,,,,,

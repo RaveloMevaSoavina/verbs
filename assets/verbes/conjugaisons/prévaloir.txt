@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:prévaux,prévaux,prévaut,prévalons,prévalez,prévalent,,,,,,,,,,,,
+indicatif imparfait:prévalais,prévalais,prévalait,prévalions,prévaliez,prévalaient,,,,,,,,,,,,
+indicatif futur simple:prévaudrai,prévaudras,prévaudra,prévaudrons,prévaudrez,prévaudront,,,,,,,,,,,,
+indicatif passé simple:prévalus,prévalus,prévalut,prévalûmes,prévalûtes,prévalurent,,,,,,,,,,,,
+subjonctif présent:prévale,prévales,prévale,prévalions,prévaliez,prévalent,,,,,,,,,,,,
+subjonctif imparfait:prévalusse,prévalusses,prévalût,prévalussions,prévalussiez,prévalussent,,,,,,,,,,,,
+conditionnel présent:prévaudrais,prévaudrais,prévaudrait,prévaudrions,prévaudriez,prévaudraient,,,,,,,,,,,,
+impératif présent:,prévaux,,prévalons,prévalez,,,,,,,,,,,,,
+participe présent:,,prévalant,,,,,,,,,,,,,,,

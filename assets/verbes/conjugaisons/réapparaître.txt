@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:réapparais,réapparais,réapparaît,réapparaissons,réapparaissez,réapparaissent,,,,,,,,,,,,
+indicatif imparfait:réapparaissais,réapparaissais,réapparaissait,réapparaissions,réapparaissiez,réapparaissaient,,,,,,,,,,,,
+indicatif futur simple:réapparaîtrai,réapparaîtras,réapparaîtra,réapparaîtrons,réapparaîtrez,réapparaîtront,,,,,,,,,,,,
+indicatif passé simple:réapparus,réapparus,réapparut,réapparûmes,réapparûtes,réapparurent,,,,,,,,,,,,
+subjonctif présent:réapparaisse,réapparaisses,réapparaisse,réapparaissions,réapparaissiez,réapparaissent,,,,,,,,,,,,
+subjonctif imparfait:réapparusse,réapparusses,réapparût,réapparussions,réapparussiez,réapparussent,,,,,,,,,,,,
+conditionnel présent:réapparaîtrais,réapparaîtrais,réapparaîtrait,réapparaîtrions,réapparaîtriez,réapparaîtraient,,,,,,,,,,,,
+impératif présent:,réapparais,,réapparaissons,réapparaissez,,,,,,,,,,,,,
+participe présent:,,rÃ©apparaissant,,,,,,,,,,,,,,,

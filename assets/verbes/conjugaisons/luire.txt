@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:luis,luis,luit,luisons,luisez,luisent,,,,,,,,,,,,
+indicatif imparfait:luisais,luisais,luisait,luisions,luisiez,luisaient,,,,,,,,,,,,
+indicatif futur simple:luirai,luiras,luira,luirons,luirez,luiront,,,,,,,,,,,,
+indicatif passé simple:luis/luisis,luis/luisis,luit/luisit,luîmes/luisîmes,luîtes/luisîtes,luirent/luisirent,,,,,,,,,,,,
+subjonctif présent:luise,luises,luise,luisions,luisiez,luisent,,,,,,,,,,,,
+subjonctif imparfait:luisse,luisses,luÃ®t,luissions,luissiez,luissent,,,,,,,,,,,,
+conditionnel présent:luirais,luirais,luirait,luirions,luiriez,luiraient,,,,,,,,,,,,
+impératif présent:,luis,,luisons,luisez,,,,,,,,,,,,,
+participe présent:,,luisant,,,,,,,,,,,,,,,

@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:comprends,comprends,comprend,comprenons,comprenez,comprennent,,,,,,,,,,,,
+indicatif imparfait:comprenais,comprenais,comprenait,comprenions,compreniez,comprenaient,,,,,,,,,,,,
+indicatif futur simple:comprendrai,comprendras,comprendra,comprendrons,comprendrez,comprendront,,,,,,,,,,,,
+indicatif passé simple:compris,compris,comprit,comprîmes,comprîtes,comprirent,,,,,,,,,,,,
+subjonctif présent:comprenne,comprennes,comprenne,comprenions,compreniez,comprennent,,,,,,,,,,,,
+subjonctif imparfait:comprisse,comprisses,comprÃ®t,comprissions,comprissiez,comprissent,,,,,,,,,,,,
+conditionnel présent:comprendrais,comprendrais,comprendrait,comprendrions,comprendriez,comprendraient,,,,,,,,,,,,
+impératif présent:,comprends,,comprenons,comprenez,,,,,,,,,,,,,
+participe présent:,,comprenant,,,,,,,,,,,,,,,

@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:nais,nais,naÃ®t,naissons,naissez,naissent,,,,,,,,,,,,
+indicatif imparfait:naissais,naissais,naissait,naissions,naissiez,naissaient,,,,,,,,,,,,
+indicatif futur simple:naîtrai,naîtras,naîtra,naîtrons,naîtrez,naîtront,,,,,,,,,,,,
+indicatif passé simple:naquis,naquis,naquit,naquîmes,naquîtes,naquirent,,,,,,,,,,,,
+subjonctif présent:naisse,naisses,naisse,naissions,naissiez,naissent,,,,,,,,,,,,
+subjonctif imparfait:naquisse,naquisses,naquÃ®t,naquissions,naquissiez,naquissent,,,,,,,,,,,,
+conditionnel présent:naîtrais,naîtrais,naîtrait,naîtrions,naîtriez,naîtraient,,,,,,,,,,,,
+impératif présent:,nais,,naissons,naissez,,,,,,,,,,,,,
+participe présent:,,naissant,,,,,,,,,,,,,,,

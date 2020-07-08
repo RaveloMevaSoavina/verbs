@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:émeus,émeus,émeut,émouvons,émouvez,émeuvent,,,,,,,,,,,,
+indicatif imparfait:émouvais,émouvais,émouvait,émouvions,émouviez,émouvaient,,,,,,,,,,,,
+indicatif futur simple:émouvrai,émouvras,émouvra,émouvrons,émouvrez,émouvront,,,,,,,,,,,,
+indicatif passé simple:émus,émus,émut,émûmes,émûtes,émurent,,,,,,,,,,,,
+subjonctif présent:émeuve,émeuves,émeuve,émouvions,émouviez,émeuvent,,,,,,,,,,,,
+subjonctif imparfait:émusse,émusses,émût,émussions,émussiez,émussent,,,,,,,,,,,,
+conditionnel présent:émouvrais,émouvrais,émouvrait,émouvrions,émouvriez,émouvraient,,,,,,,,,,,,
+impératif présent:,émeus,,émouvons,émouvez,,,,,,,,,,,,,
+participe présent:,,Ã©mouvant,,,,,,,,,,,,,,,

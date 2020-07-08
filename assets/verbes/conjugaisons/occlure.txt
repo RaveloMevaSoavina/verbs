@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:occlus,occlus,occlut,occluons,occluez,occluent,,,,,,,,,,,,
+indicatif imparfait:occluais,occluais,occluait,occluions,occluiez,occluaient,,,,,,,,,,,,
+indicatif futur simple:occlurai,occluras,occlura,occlurons,occlurez,occluront,,,,,,,,,,,,
+indicatif passé simple:occlus,occlus,occlut,occlûmes,occlûtes,occlurent,,,,,,,,,,,,
+subjonctif présent:occlue,occlues,occlue,occluions,occluiez,occluent,,,,,,,,,,,,
+subjonctif imparfait:occlusse,occlusses,occlÃ»t,occlussions,occlussiez,occlussent,,,,,,,,,,,,
+conditionnel présent:occlurais,occlurais,occlurait,occlurions,occluriez,occluraient,,,,,,,,,,,,
+impératif présent:,occlus,,occluons,occluez,,,,,,,,,,,,,
+participe présent:,,occluant,,,,,,,,,,,,,,,

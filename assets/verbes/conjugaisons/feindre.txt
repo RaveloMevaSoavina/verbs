@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:feins,feins,feint,feignons,feignez,feignent,,,,,,,,,,,,
+indicatif imparfait:feignais,feignais,feignait,feignions,feigniez,feignaient,,,,,,,,,,,,
+indicatif futur simple:feindrai,feindras,feindra,feindrons,feindrez,feindront,,,,,,,,,,,,
+indicatif passé simple:feignis,feignis,feignit,feignîmes,feignîtes,feignirent,,,,,,,,,,,,
+subjonctif présent:feigne,feignes,feigne,feignions,feigniez,feignent,,,,,,,,,,,,
+subjonctif imparfait:feignisse,feignisses,feignÃ®t,feignissions,feignissiez,feignissent,,,,,,,,,,,,
+conditionnel présent:feindrais,feindrais,feindrait,feindrions,feindriez,feindraient,,,,,,,,,,,,
+impératif présent:,feins,,feignons,feignez,,,,,,,,,,,,,
+participe présent:,,feignant,,,,,,,,,,,,,,,

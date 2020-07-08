@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:complais,complais,complaÃ®t,complaisons,complaisez,complaisent,,,,,,,,,,,,
+indicatif imparfait:complaisais,complaisais,complaisait,complaisions,complaisiez,complaisaient,,,,,,,,,,,,
+indicatif futur simple:complairai,complairas,complaira,complairons,complairez,complairont,,,,,,,,,,,,
+indicatif passé simple:complus,complus,complut,complûmes,complûtes,complurent,,,,,,,,,,,,
+subjonctif présent:complaise,complaises,complaise,complaisions,complaisiez,complaisent,,,,,,,,,,,,
+subjonctif imparfait:complusse,complusses,complÃ»t,complussions,complussiez,complussent,,,,,,,,,,,,
+conditionnel présent:complairais,complairais,complairait,complairions,complairiez,complairaient,,,,,,,,,,,,
+impératif présent:,complais,,complaisons,complaisez,,,,,,,,,,,,,
+participe présent:,,complaisant,,,,,,,,,,,,,,,

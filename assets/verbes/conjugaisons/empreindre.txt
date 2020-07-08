@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:empreins,empreins,empreint,empreignons,empreignez,empreignent,,,,,,,,,,,,
+indicatif imparfait:empreignais,empreignais,empreignait,empreignions,empreigniez,empreignaient,,,,,,,,,,,,
+indicatif futur simple:empreindrai,empreindras,empreindra,empreindrons,empreindrez,empreindront,,,,,,,,,,,,
+indicatif passé simple:empreignis,empreignis,empreignit,empreignîmes,empreignîtes,empreignirent,,,,,,,,,,,,
+subjonctif présent:empreigne,empreignes,empreigne,empreignions,empreigniez,empreignent,,,,,,,,,,,,
+subjonctif imparfait:empreignisse,empreignisses,empreignÃ®t,empreignissions,empreignissiez,empreignissent,,,,,,,,,,,,
+conditionnel présent:empreindrais,empreindrais,empreindrait,empreindrions,empreindriez,empreindraient,,,,,,,,,,,,
+impératif présent:,empreins,,empreignons,empreignez,,,,,,,,,,,,,
+participe présent:,,empreignant,,,,,,,,,,,,,,,

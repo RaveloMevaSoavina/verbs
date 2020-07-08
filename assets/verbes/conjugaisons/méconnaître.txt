@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:méconnais,méconnais,méconnaît,méconnaissons,méconnaissez,méconnaissent,,,,,,,,,,,,
+indicatif imparfait:méconnaissais,méconnaissais,méconnaissait,méconnaissions,méconnaissiez,méconnaissaient,,,,,,,,,,,,
+indicatif futur simple:méconnaîtrai,méconnaîtras,méconnaîtra,méconnaîtrons,méconnaîtrez,méconnaîtront,,,,,,,,,,,,
+indicatif passé simple:méconnus,méconnus,méconnut,méconnûmes,méconnûtes,méconnurent,,,,,,,,,,,,
+subjonctif présent:méconnaisse,méconnaisses,méconnaisse,méconnaissions,méconnaissiez,méconnaissent,,,,,,,,,,,,
+subjonctif imparfait:méconnusse,méconnusses,méconnût,méconnussions,méconnussiez,méconnussent,,,,,,,,,,,,
+conditionnel présent:méconnaîtrais,méconnaîtrais,méconnaîtrait,méconnaîtrions,méconnaîtriez,méconnaîtraient,,,,,,,,,,,,
+impératif présent:,méconnais,,méconnaissons,méconnaissez,,,,,,,,,,,,,
+participe présent:,,méconnaissant,,,,,,,,,,,,,,,

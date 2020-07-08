@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:soumets,soumets,soumet,soumettons,soumettez,soumettent,,,,,,,,,,,,
+indicatif imparfait:soumettais,soumettais,soumettait,soumettions,soumettiez,soumettaient,,,,,,,,,,,,
+indicatif futur simple:soumettrai,soumettras,soumettra,soumettrons,soumettrez,soumettront,,,,,,,,,,,,
+indicatif passé simple:soumis,soumis,soumit,soumîmes,soumîtes,soumirent,,,,,,,,,,,,
+subjonctif présent:soumette,soumettes,soumette,soumettions,soumettiez,soumettent,,,,,,,,,,,,
+subjonctif imparfait:soumisse,soumisses,soumÃ®t,soumissions,soumissiez,soumissent,,,,,,,,,,,,
+conditionnel présent:soumettrais,soumettrais,soumettrait,soumettrions,soumettriez,soumettraient,,,,,,,,,,,,
+impératif présent:,soumets,,soumettons,soumettez,,,,,,,,,,,,,
+participe présent:,,soumettant,,,,,,,,,,,,,,,

@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:cueille,cueilles,cueille,cueillons,cueillez,cueillent,,,,,,,,,,,,
+indicatif imparfait:cueillais,cueillais,cueillait,cueillions,cueilliez,cueillaient,,,,,,,,,,,,
+indicatif futur simple:cueillerai,cueilleras,cueillera,cueillerons,cueillerez,cueilleront,,,,,,,,,,,,
+indicatif passé simple:cueillis,cueillis,cueillit,cueillîmes,cueillîtes,cueillirent,,,,,,,,,,,,
+subjonctif présent:cueille,cueilles,cueille,cueillions,cueilliez,cueillent,,,,,,,,,,,,
+subjonctif imparfait:cueillisse,cueillisses,cueillÃ®t,cueillissions,cueillissiez,cueillissent,,,,,,,,,,,,
+conditionnel présent:cueillerais,cueillerais,cueillerait,cueillerions,cueilleriez,cueilleraient,,,,,,,,,,,,
+impératif présent:,cueille,,cueillons,cueillez,,,,,,,,,,,,,
+participe présent:,,cueillant,,,,,,,,,,,,,,,

@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:survis,survis,survit,survivons,survivez,survivent,,,,,,,,,,,,
+indicatif imparfait:survivais,survivais,survivait,survivions,surviviez,survivaient,,,,,,,,,,,,
+indicatif futur simple:survivrai,survivras,survivra,survivrons,survivrez,survivront,,,,,,,,,,,,
+indicatif passé simple:survécus,survécus,survécut,survécûmes,survécûtes,survécurent,,,,,,,,,,,,
+subjonctif présent:survive,survives,survive,survivions,surviviez,survivent,,,,,,,,,,,,
+subjonctif imparfait:survécusse,survécusses,survécût,survécussions,survécussiez,survécussent,,,,,,,,,,,,
+conditionnel présent:survivrais,survivrais,survivrait,survivrions,survivriez,survivraient,,,,,,,,,,,,
+impératif présent:,survis,,survivons,survivez,,,,,,,,,,,,,
+participe présent:,,survivant,,,,,,,,,,,,,,,

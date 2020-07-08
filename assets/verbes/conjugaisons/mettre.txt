@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:mets,mets,met,mettons,mettez,mettent,,,,,,,,,,,,
+indicatif imparfait:mettais,mettais,mettait,mettions,mettiez,mettaient,,,,,,,,,,,,
+indicatif futur simple:mettrai,mettras,mettra,mettrons,mettrez,mettront,,,,,,,,,,,,
+indicatif passé simple:mis,mis,mit,mîmes,mîtes,mirent,,,,,,,,,,,,
+subjonctif présent:mette,mettes,mette,mettions,mettiez,mettent,,,,,,,,,,,,
+subjonctif imparfait:misse,misses,mÃ®t,missions,missiez,missent,,,,,,,,,,,,
+conditionnel présent:mettrais,mettrais,mettrait,mettrions,mettriez,mettraient,,,,,,,,,,,,
+impératif présent:,mets,,mettons,mettez,,,,,,,,,,,,,
+participe présent:,,mettant,,,,,,,,,,,,,,,

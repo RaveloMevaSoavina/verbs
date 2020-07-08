@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:sais,sais,sait,savons,savez,savent,,,,,,,,,,,,
+indicatif imparfait:savais,savais,savait,savions,saviez,savaient,,,,,,,,,,,,
+indicatif futur simple:saurai,sauras,saura,saurons,saurez,sauront,,,,,,,,,,,,
+indicatif passé simple:sus,sus,sut,sûmes,sûtes,surent,,,,,,,,,,,,
+subjonctif présent:sache,saches,sache,sachions,sachiez,sachent,,,,,,,,,,,,
+subjonctif imparfait:susse,susses,sÃ»t,sussions,sussiez,sussent,,,,,,,,,,,,
+conditionnel présent:saurais,saurais,saurait,saurions,sauriez,sauraient,,,,,,,,,,,,
+impératif présent:,sache,,sachons,sachez,,,,,,,,,,,,,
+participe présent:,,sachant,,,,,,,,,,,,,,,

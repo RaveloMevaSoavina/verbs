@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:parfonds,parfonds,parfond,parfondons,parfondez,parfondent,,,,,,,,,,,,
+indicatif imparfait:parfondais,parfondais,parfondait,parfondions,parfondiez,parfondaient,,,,,,,,,,,,
+indicatif futur simple:parfondrai,parfondras,parfondra,parfondrons,parfondrez,parfondront,,,,,,,,,,,,
+indicatif passé simple:parfondis,parfondis,parfondit,parfondîmes,parfondîtes,parfondirent,,,,,,,,,,,,
+subjonctif présent:parfonde,parfondes,parfonde,parfondions,parfondiez,parfondent,,,,,,,,,,,,
+subjonctif imparfait:parfondisse,parfondisses,parfondÃ®t,parfondissions,parfondissiez,parfondissent,,,,,,,,,,,,
+conditionnel présent:parfondrais,parfondrais,parfondrait,parfondrions,parfondriez,parfondraient,,,,,,,,,,,,
+impératif présent:,parfonds,,parfondons,parfondez,,,,,,,,,,,,,
+participe présent:,,parfondant,,,,,,,,,,,,,,,

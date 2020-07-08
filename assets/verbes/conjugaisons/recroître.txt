@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:recroîs,recroîs,recroît,recroissons,recroissez,recroissent,,,,,,,,,,,,
+indicatif imparfait:recroissais,recroissais,recroissait,recroissions,recroissiez,recroissaient,,,,,,,,,,,,
+indicatif futur simple:recroîtrai,recroîtras,recroîtra,recroîtrons,recroîtrez,recroîtront,,,,,,,,,,,,
+indicatif passé simple:recrus,recrus,recrut,recrûmes,recrûtes,recrurent,,,,,,,,,,,,
+subjonctif présent:recroisse,recroisses,recroisse,recroissions,recroissiez,recroissent,,,,,,,,,,,,
+subjonctif imparfait:recrusse,recrusses,recrÃ»t,recrussions,recrussiez,recrussent,,,,,,,,,,,,
+conditionnel présent:recroîtrais,recroîtrais,recroîtrait,recroîtrions,recroîtriez,recroîtraient,,,,,,,,,,,,
+impératif présent:,recrois,,recroissons,recroissez,,,,,,,,,,,,,
+participe présent:,,recroissant,,,,,,,,,,,,,,,

@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:préviens,préviens,prévient,prévenons,prévenez,préviennent,,,,,,,,,,,,
+indicatif imparfait:prévenais,prévenais,prévenait,prévenions,préveniez,prévenaient,,,,,,,,,,,,
+indicatif futur simple:préviendrai,préviendras,préviendra,préviendrons,préviendrez,préviendront,,,,,,,,,,,,
+indicatif passé simple:prévins,prévins,prévint,prévînmes,prévîntes,prévinrent,,,,,,,,,,,,
+subjonctif présent:prévienne,préviennes,prévienne,prévenions,préveniez,préviennent,,,,,,,,,,,,
+subjonctif imparfait:prévinsse,prévinsses,prévînt,prévinssions,prévinssiez,prévinssent,,,,,,,,,,,,
+conditionnel présent:préviendrais,préviendrais,préviendrait,préviendrions,préviendriez,préviendraient,,,,,,,,,,,,
+impératif présent:,préviens,,prévenons,prévenez,,,,,,,,,,,,,
+participe présent:,,prévenant,,,,,,,,,,,,,,,

@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:couds,couds,coud,cousons,cousez,cousent,,,,,,,,,,,,
+indicatif imparfait:cousais,cousais,cousait,cousions,cousiez,cousaient,,,,,,,,,,,,
+indicatif futur simple:coudrai,coudras,coudra,coudrons,coudrez,coudront,,,,,,,,,,,,
+indicatif passé simple:cousis,cousis,cousit,cousîmes,cousîtes,cousirent,,,,,,,,,,,,
+subjonctif présent:couse,couses,couse,cousions,cousiez,cousent,,,,,,,,,,,,
+subjonctif imparfait:cousisse,cousisses,cousÃ®t,cousissions,cousissiez,cousissent,,,,,,,,,,,,
+conditionnel présent:coudrais,coudrais,coudrait,coudrions,coudriez,coudraient,,,,,,,,,,,,
+impératif présent:,couds,,cousons,cousez,,,,,,,,,,,,,
+participe présent:,,cousant,,,,,,,,,,,,,,,

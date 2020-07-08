@@ -1,0 +1,11 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:poins,poins,point,poignons,poignez,poignent,,,,,,,,,,,,
+indicatif imparfait:poignais,poignais,poignait,poignions,poigniez,poignaient,,,,,,,,,,,,
+indicatif futur simple:poindrai,poindras,poindra,poindrons,poindrez,poindront,,,,,,,,,,,,
+indicatif passé simple:poignis,poignis,poignit,poignîmes,poignîtes,poignirent,,,,,,,,,,,,
+subjonctif présent:poigne,poignes,poigne,poignions,poigniez,poignent,,,,,,,,,,,,
+subjonctif imparfait:poignisse,poignisses,poignÃ®t,poignissions,poignissiez,poignissent,,,,,,,,,,,,
+conditionnel présent:poindrais,poindrais,poindrait,poindrions,poindriez,poindraient,,,,,,,,,,,,
+impératif présent:,,,,,,,,,,,,,,,,,
+participe présent:,,poignant,,,,,,,,,,,,,,,
+participe passé:,,,,,,,,,,,,,,,,,

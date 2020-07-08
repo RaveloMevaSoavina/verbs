@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:cours,cours,court,courons,courez,courent,,,,,,,,,,,,
+indicatif imparfait:courais,courais,courait,courions,couriez,couraient,,,,,,,,,,,,
+indicatif futur simple:courrai,courras,courra,courrons,courrez,courront,,,,,,,,,,,,
+indicatif passé simple:courus,courus,courut,courûmes,courûtes,coururent,,,,,,,,,,,,
+subjonctif présent:coure,coures,coure,courions,couriez,courent,,,,,,,,,,,,
+subjonctif imparfait:courusse,courusses,courÃ»t,courussions,courussiez,courussent,,,,,,,,,,,,
+conditionnel présent:courrais,courrais,courrait,courrions,courriez,courraient,,,,,,,,,,,,
+impératif présent:,cours,,courons,courez,,,,,,,,,,,,,
+participe présent:,,courant,,,,,,,,,,,,,,,

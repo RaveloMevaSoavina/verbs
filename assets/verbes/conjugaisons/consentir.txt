@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:consens,consens,consent,consentons,consentez,consentent,,,,,,,,,,,,
+indicatif imparfait:consentais,consentais,consentait,consentions,consentiez,consentaient,,,,,,,,,,,,
+indicatif futur simple:consentirai,consentiras,consentira,consentirons,consentirez,consentiront,,,,,,,,,,,,
+indicatif passé simple:consentis,consentis,consentit,consentîmes,consentîtes,consentirent,,,,,,,,,,,,
+subjonctif présent:consente,consentes,consente,consentions,consentiez,consentent,,,,,,,,,,,,
+subjonctif imparfait:consentisse,consentisses,consentÃ®t,consentissions,consentissiez,consentissent,,,,,,,,,,,,
+conditionnel présent:consentirais,consentirais,consentirait,consentirions,consentiriez,consentiraient,,,,,,,,,,,,
+impératif présent:,consens,,consentons,consentez,,,,,,,,,,,,,
+participe présent:,,consentant,,,,,,,,,,,,,,,

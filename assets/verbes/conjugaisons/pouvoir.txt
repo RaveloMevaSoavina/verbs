@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:peux/puis,peux,peut,pouvons,pouvez,peuvent,,,,,,,,,,,,
+indicatif imparfait:pouvais,pouvais,pouvait,pouvions,pouviez,pouvaient,,,,,,,,,,,,
+indicatif futur simple:pourrai,pourras,pourra,pourrons,pourrez,pourront,,,,,,,,,,,,
+indicatif passé simple:pus,pus,put,pûmes,pûtes,purent,,,,,,,,,,,,
+subjonctif présent:puisse,puisses,puisse,puissions,puissiez,puissent,,,,,,,,,,,,
+subjonctif imparfait:pusse,pusses,pÃ»t,pussions,pussiez,pussent,,,,,,,,,,,,
+conditionnel présent:pourrais,pourrais,pourrait,pourrions,pourriez,pourraient,,,,,,,,,,,,
+impératif présent:,,,,,,,,,,,,,,,,,
+participe présent:,,pouvant,,,,,,,,,,,,,,,

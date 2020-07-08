@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:couvre,couvres,couvre,couvrons,couvrez,couvrent,,,,,,,,,,,,
+indicatif imparfait:couvrais,couvrais,couvrait,couvrions,couvriez,couvraient,,,,,,,,,,,,
+indicatif futur simple:couvrirai,couvriras,couvrira,couvrirons,couvrirez,couvriront,,,,,,,,,,,,
+indicatif passé simple:couvris,couvris,couvrit,couvrîmes,couvrîtes,couvrirent,,,,,,,,,,,,
+subjonctif présent:couvre,couvres,couvre,couvrions,couvriez,couvrent,,,,,,,,,,,,
+subjonctif imparfait:couvrisse,couvrisses,couvrÃ®t,couvrissions,couvrissiez,couvrissent,,,,,,,,,,,,
+conditionnel présent:couvrirais,couvrirais,couvrirait,couvririons,couvririez,couvriraient,,,,,,,,,,,,
+impératif présent:,couvre,,couvrons,couvrez,,,,,,,,,,,,,
+participe présent:,,couvrant,,,,,,,,,,,,,,,

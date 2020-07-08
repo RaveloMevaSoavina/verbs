@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:tords,tords,tord,tordons,tordez,tordent,,,,,,,,,,,,
+indicatif imparfait:tordais,tordais,tordait,tordions,tordiez,tordaient,,,,,,,,,,,,
+indicatif futur simple:tordrai,tordras,tordra,tordrons,tordrez,tordront,,,,,,,,,,,,
+indicatif passé simple:tordis,tordis,tordit,tordîmes,tordîtes,tordirent,,,,,,,,,,,,
+subjonctif présent:torde,tordes,torde,tordions,tordiez,tordent,,,,,,,,,,,,
+subjonctif imparfait:tordisse,tordisses,tordÃ®t,tordissions,tordissiez,tordissent,,,,,,,,,,,,
+conditionnel présent:tordrais,tordrais,tordrait,tordrions,tordriez,tordraient,,,,,,,,,,,,
+impératif présent:,tords,,tordons,tordez,,,,,,,,,,,,,
+participe présent:,,tordant,,,,,,,,,,,,,,,

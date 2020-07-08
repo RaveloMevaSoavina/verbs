@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:réduis,réduis,réduit,réduisons,réduisez,réduisent,,,,,,,,,,,,
+indicatif imparfait:réduisais,réduisais,réduisait,réduisions,réduisiez,réduisaient,,,,,,,,,,,,
+indicatif futur simple:réduirai,réduiras,réduira,réduirons,réduirez,réduiront,,,,,,,,,,,,
+indicatif passé simple:réduisis,réduisis,réduisit,réduisîmes,réduisîtes,réduisirent,,,,,,,,,,,,
+subjonctif présent:réduise,réduises,réduise,réduisions,réduisiez,réduisent,,,,,,,,,,,,
+subjonctif imparfait:réduisisse,réduisisses,réduisît,réduisissions,réduisissiez,réduisissent,,,,,,,,,,,,
+conditionnel présent:réduirais,réduirais,réduirait,réduirions,réduiriez,réduiraient,,,,,,,,,,,,
+impératif présent:,réduis,,réduisons,réduisez,,,,,,,,,,,,,
+participe présent:,,réduisant,,,,,,,,,,,,,,,

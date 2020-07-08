@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:remets,remets,remet,remettons,remettez,remettent,,,,,,,,,,,,
+indicatif imparfait:remettais,remettais,remettait,remettions,remettiez,remettaient,,,,,,,,,,,,
+indicatif futur simple:remettrai,remettras,remettra,remettrons,remettrez,remettront,,,,,,,,,,,,
+indicatif passé simple:remis,remis,remit,remîmes,remîtes,remirent,,,,,,,,,,,,
+subjonctif présent:remette,remettes,remette,remettions,remettiez,remettent,,,,,,,,,,,,
+subjonctif imparfait:remisse,remisses,remÃ®t,remissions,remissiez,remissent,,,,,,,,,,,,
+conditionnel présent:remettrais,remettrais,remettrait,remettrions,remettriez,remettraient,,,,,,,,,,,,
+impératif présent:,remets,,remettons,remettez,,,,,,,,,,,,,
+participe présent:,,remettant,,,,,,,,,,,,,,,

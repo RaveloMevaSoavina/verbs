@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:épands,épands,épand,épandons,épandez,épandent,,,,,,,,,,,,
+indicatif imparfait:épandais,épandais,épandait,épandions,épandiez,épandaient,,,,,,,,,,,,
+indicatif futur simple:épandrai,épandras,épandra,épandrons,épandrez,épandront,,,,,,,,,,,,
+indicatif passé simple:épandis,épandis,épandit,épandîmes,épandîtes,épandirent,,,,,,,,,,,,
+subjonctif présent:épande,épandes,épande,épandions,épandiez,épandent,,,,,,,,,,,,
+subjonctif imparfait:épandisse,épandisses,épandît,épandissions,épandissiez,épandissent,,,,,,,,,,,,
+conditionnel présent:épandrais,épandrais,épandrait,épandrions,épandriez,épandraient,,,,,,,,,,,,
+impératif présent:,épands,,épandons,épandez,,,,,,,,,,,,,
+participe présent:,,Ã©pandant,,,,,,,,,,,,,,,

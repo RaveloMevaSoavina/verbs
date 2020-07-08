@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:prédis,prédis,prédit,prédisons,prédites/prédisez,prédisent,,,,,,,,,,,,
+indicatif imparfait:prédisais,prédisais,prédisait,prédisions,prédisiez,prédisaient,,,,,,,,,,,,
+indicatif futur simple:prédirai,prédiras,prédira,prédirons,prédirez,prédiront,,,,,,,,,,,,
+indicatif passé simple:prédis,prédis,prédit,prédîmes,prédîtes,prédirent,,,,,,,,,,,,
+subjonctif présent:prédise,prédises,prédise,prédisions,prédisiez,prédisent,,,,,,,,,,,,
+subjonctif imparfait:prédisse,prédisses,prédît,prédissions,prédissiez,prédissent,,,,,,,,,,,,
+conditionnel présent:prédirais,prédirais,prédirait,prédirions,prédiriez,prédiraient,,,,,,,,,,,,
+impératif présent:,prédis,,prédisons,prédites/prédisez,,,,,,,,,,,,,
+participe présent:,,prédisant,,,,,,,,,,,,,,,

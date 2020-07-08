@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:recouds,recouds,recoud,recousons,recousez,recousent,,,,,,,,,,,,
+indicatif imparfait:recousais,recousais,recousait,recousions,recousiez,recousaient,,,,,,,,,,,,
+indicatif futur simple:recoudrai,recoudras,recoudra,recoudrons,recoudrez,recoudront,,,,,,,,,,,,
+indicatif passé simple:recousis,recousis,recousit,recousîmes,recousîtes,recousirent,,,,,,,,,,,,
+subjonctif présent:recouse,recouses,recouse,recousions,recousiez,recousent,,,,,,,,,,,,
+subjonctif imparfait:recousisse,recousisses,recousÃ®t,recousissions,recousissiez,recousissent,,,,,,,,,,,,
+conditionnel présent:recoudrais,recoudrais,recoudrait,recoudrions,recoudriez,recoudraient,,,,,,,,,,,,
+impératif présent:,recouds,,recousons,recousez,,,,,,,,,,,,,
+participe présent:,,recousant,,,,,,,,,,,,,,,

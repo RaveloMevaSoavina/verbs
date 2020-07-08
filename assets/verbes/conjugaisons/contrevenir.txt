@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:contreviens,contreviens,contrevient,contrevenons,contrevenez,contreviennent,,,,,,,,,,,,
+indicatif imparfait:contrevenais,contrevenais,contrevenait,contrevenions,contreveniez,contrevenaient,,,,,,,,,,,,
+indicatif futur simple:contreviendrai,contreviendras,contreviendra,contreviendrons,contreviendrez,contreviendront,,,,,,,,,,,,
+indicatif passé simple:contrevins,contrevins,contrevint,contrevînmes,contrevîntes,contrevinrent,,,,,,,,,,,,
+subjonctif présent:contrevienne,contreviennes,contrevienne,contrevenions,contreveniez,contreviennent,,,,,,,,,,,,
+subjonctif imparfait:contrevinsse,contrevinsses,contrevÃ®nt,contrevinssions,contrevinssiez,contrevinssent,,,,,,,,,,,,
+conditionnel présent:contreviendrais,contreviendrais,contreviendrait,contreviendrions,contreviendriez,contreviendraient,,,,,,,,,,,,
+impératif présent:,contreviens,,contrevenons,contrevenez,,,,,,,,,,,,,
+participe présent:,,contrevenant,,,,,,,,,,,,,,,

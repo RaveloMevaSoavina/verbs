@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:promeus,promeus,promeut,promouvons,promouvez,promeuvent,,,,,,,,,,,,
+indicatif imparfait:promouvais,promouvais,promouvait,promouvions,promouviez,promouvaient,,,,,,,,,,,,
+indicatif futur simple:promouvrai,promouvras,promouvra,promouvrons,promouvrez,promouvront,,,,,,,,,,,,
+indicatif passé simple:promus,promus,promut,promûmes,promûtes,promurent,,,,,,,,,,,,
+subjonctif présent:promeuve,promeuves,promeuve,promouvions,promouviez,promeuvent,,,,,,,,,,,,
+subjonctif imparfait:promusse,promusses,promÃ»t,promussions,promussiez,promussent,,,,,,,,,,,,
+conditionnel présent:promouvrais,promouvrais,promouvrait,promouvrions,promouvriez,promouvraient,,,,,,,,,,,,
+impératif présent:,promeus,,promouvons,promouvez,,,,,,,,,,,,,
+participe présent:,,promouvant,,,,,,,,,,,,,,,

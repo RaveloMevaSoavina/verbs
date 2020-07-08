@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:médis,médis,médit,médisons,médisez,médisent,,,,,,,,,,,,
+indicatif imparfait:médisais,médisais,médisait,médisions,médisiez,médisaient,,,,,,,,,,,,
+indicatif futur simple:médirai,médiras,médira,médirons,médirez,médiront,,,,,,,,,,,,
+indicatif passé simple:médis,médis,médit,médîmes,médîtes,médirent,,,,,,,,,,,,
+subjonctif présent:médise,médises,médise,médisions,médisiez,médisent,,,,,,,,,,,,
+subjonctif imparfait:médisse,médisses,médît,médissions,médissiez,médissent,,,,,,,,,,,,
+conditionnel présent:médirais,médirais,médirait,médirions,médiriez,médiraient,,,,,,,,,,,,
+impératif présent:,médis,,médisons,médisez,,,,,,,,,,,,,
+participe présent:,,médisant,,,,,,,,,,,,,,,

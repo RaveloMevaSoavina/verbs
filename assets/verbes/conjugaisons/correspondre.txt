@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:corresponds,corresponds,correspond,correspondons,correspondez,correspondent,,,,,,,,,,,,
+indicatif imparfait:correspondais,correspondais,correspondait,correspondions,correspondiez,correspondaient,,,,,,,,,,,,
+indicatif futur simple:correspondrai,correspondras,correspondra,correspondrons,correspondrez,correspondront,,,,,,,,,,,,
+indicatif passé simple:correspondis,correspondis,correspondit,correspondîmes,correspondîtes,correspondirent,,,,,,,,,,,,
+subjonctif présent:corresponde,correspondes,corresponde,correspondions,correspondiez,correspondent,,,,,,,,,,,,
+subjonctif imparfait:correspondisse,correspondisses,correspondÃ®t,correspondissions,correspondissiez,correspondissent,,,,,,,,,,,,
+conditionnel présent:correspondrais,correspondrais,correspondrait,correspondrions,correspondriez,correspondraient,,,,,,,,,,,,
+impératif présent:,corresponds,,correspondons,correspondez,,,,,,,,,,,,,
+participe présent:,,correspondant,,,,,,,,,,,,,,,

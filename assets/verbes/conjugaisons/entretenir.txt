@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:entretiens,entretiens,entretient,entretenons,entretenez,entretiennent,,,,,,,,,,,,
+indicatif imparfait:entretenais,entretenais,entretenait,entretenions,entreteniez,entretenaient,,,,,,,,,,,,
+indicatif futur simple:entretiendrai,entretiendras,entretiendra,entretiendrons,entretiendrez,entretiendront,,,,,,,,,,,,
+indicatif passé simple:entretins,entretins,entretint,entretînmes,entretîntes,entretinrent,,,,,,,,,,,,
+subjonctif présent:entretienne,entretiennes,entretienne,entretenions,entreteniez,entretiennent,,,,,,,,,,,,
+subjonctif imparfait:entretinsse,entretinsses,entretÃ®nt,entretinssions,entretinssiez,entretinssent,,,,,,,,,,,,
+conditionnel présent:entretiendrais,entretiendrais,entretiendrait,entretiendrions,entretiendriez,entretiendraient,,,,,,,,,,,,
+impératif présent:,entretiens,,entretenons,entretenez,,,,,,,,,,,,,
+participe présent:,,entretenant,,,,,,,,,,,,,,,

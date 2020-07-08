@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:peins,peins,peint,peignons,peignez,peignent,,,,,,,,,,,,
+indicatif imparfait:peignais,peignais,peignait,peignions,peigniez,peignaient,,,,,,,,,,,,
+indicatif futur simple:peindrai,peindras,peindra,peindrons,peindrez,peindront,,,,,,,,,,,,
+indicatif passé simple:peignis,peignis,peignit,peignîmes,peignîtes,peignirent,,,,,,,,,,,,
+subjonctif présent:peigne,peignes,peigne,peignions,peigniez,peignent,,,,,,,,,,,,
+subjonctif imparfait:peignisse,peignisses,peignÃ®t,peignissions,peignissiez,peignissent,,,,,,,,,,,,
+conditionnel présent:peindrais,peindrais,peindrait,peindrions,peindriez,peindraient,,,,,,,,,,,,
+impératif présent:,peins,,peignons,peignez,,,,,,,,,,,,,
+participe présent:,,peignant,,,,,,,,,,,,,,,

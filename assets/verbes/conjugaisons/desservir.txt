@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:dessers,dessers,dessert,desservons,desservez,desservent,,,,,,,,,,,,
+indicatif imparfait:desservais,desservais,desservait,desservions,desserviez,desservaient,,,,,,,,,,,,
+indicatif futur simple:desservirai,desserviras,desservira,desservirons,desservirez,desserviront,,,,,,,,,,,,
+indicatif passé simple:desservis,desservis,desservit,desservîmes,desservîtes,desservirent,,,,,,,,,,,,
+subjonctif présent:desserve,desserves,desserve,desservions,desserviez,desservent,,,,,,,,,,,,
+subjonctif imparfait:desservisse,desservisses,desservÃ®t,desservissions,desservissiez,desservissent,,,,,,,,,,,,
+conditionnel présent:desservirais,desservirais,desservirait,desservirions,desserviriez,desserviraient,,,,,,,,,,,,
+impératif présent:,dessers,,desservons,desservez,,,,,,,,,,,,,
+participe présent:,,desservant,,,,,,,,,,,,,,,

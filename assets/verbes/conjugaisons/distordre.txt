@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:distords,distords,distord,distordons,distordez,distordent,,,,,,,,,,,,
+indicatif imparfait:distordais,distordais,distordait,distordions,distordiez,distordaient,,,,,,,,,,,,
+indicatif futur simple:distordrai,distordras,distordra,distordrons,distordrez,distordront,,,,,,,,,,,,
+indicatif passé simple:distordis,distordis,distordit,distordîmes,distordîtes,distordirent,,,,,,,,,,,,
+subjonctif présent:distorde,distordes,distorde,distordions,distordiez,distordent,,,,,,,,,,,,
+subjonctif imparfait:distordisse,distordisses,distordÃ®t,distordissions,distordissiez,distordissent,,,,,,,,,,,,
+conditionnel présent:distordrais,distordrais,distordrait,distordrions,distordriez,distordraient,,,,,,,,,,,,
+impératif présent:,distords,,distordons,distordez,,,,,,,,,,,,,
+participe présent:,,distordant,,,,,,,,,,,,,,,

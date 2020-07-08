@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:reproduis,reproduis,reproduit,reproduisons,reproduisez,reproduisent,,,,,,,,,,,,
+indicatif imparfait:reproduisais,reproduisais,reproduisait,reproduisions,reproduisiez,reproduisaient,,,,,,,,,,,,
+indicatif futur simple:reproduirai,reproduiras,reproduira,reproduirons,reproduirez,reproduiront,,,,,,,,,,,,
+indicatif passé simple:reproduisis,reproduisis,reproduisit,reproduisîmes,reproduisîtes,reproduisirent,,,,,,,,,,,,
+subjonctif présent:reproduise,reproduises,reproduise,reproduisions,reproduisiez,reproduisent,,,,,,,,,,,,
+subjonctif imparfait:reproduisisse,reproduisisses,reproduisÃ®t,reproduisissions,reproduisissiez,reproduisissent,,,,,,,,,,,,
+conditionnel présent:reproduirais,reproduirais,reproduirait,reproduirions,reproduiriez,reproduiraient,,,,,,,,,,,,
+impératif présent:,reproduis,,reproduisons,reproduisez,,,,,,,,,,,,,
+participe présent:,,reproduisant,,,,,,,,,,,,,,,

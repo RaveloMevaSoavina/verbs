@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:vaux,vaux,vaut,valons,valez,valent,,,,,,,,,,,,
+indicatif imparfait:valais,valais,valait,valions,valiez,valaient,,,,,,,,,,,,
+indicatif futur simple:vaudrai,vaudras,vaudra,vaudrons,vaudrez,vaudront,,,,,,,,,,,,
+indicatif passé simple:valus,valus,valut,valûmes,valûtes,valurent,,,,,,,,,,,,
+subjonctif présent:vaille,vailles,vaille,valions,valiez,vaillent,,,,,,,,,,,,
+subjonctif imparfait:valusse,valusses,valÃ»t,valussions,valussiez,valussent,,,,,,,,,,,,
+conditionnel présent:vaudrais,vaudrais,vaudrait,vaudrions,vaudriez,vaudraient,,,,,,,,,,,,
+impératif présent:,vaux,,valons,valez,,,,,,,,,,,,,
+participe présent:,,valant,,,,,,,,,,,,,,,

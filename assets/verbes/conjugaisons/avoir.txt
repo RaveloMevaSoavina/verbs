@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:ai,as,a,avons,avez,ont,,,,,,,,,,,,
+indicatif imparfait:avais,avais,avait,avions,aviez,avaient,,,,,,,,,,,,
+indicatif futur simple:aurai,auras,aura,aurons,aurez,auront,,,,,,,,,,,,
+indicatif passé simple:eus,eus,eut,eûmes,eûtes,eurent,,,,,,,,,,,,
+subjonctif présent:aie,aies,ait,ayons,ayez,aient,,,,,,,,,,,,
+subjonctif imparfait:eusse,eusses,eÃ»t,eussions,eussiez,eussent,,,,,,,,,,,,
+conditionnel présent:aurais,aurais,aurait,aurions,auriez,auraient,,,,,,,,,,,,
+impératif présent:,aie,,ayons,ayez,,,,,,,,,,,,,
+participe présent:,,ayant,,,,,,,,,,,,,,,

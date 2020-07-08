@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:combats,combats,,combattons,combattez,combattent,,,,,,,,,,,,
+indicatif imparfait:combattais,combattais,combattait,combattions,combattiez,combattaient,,,,,,,,,,,,
+indicatif futur simple:combattrai,combattras,combattra,combattrons,combattrez,combattront,,,,,,,,,,,,
+indicatif passé simple:combattis,combattis,combattit,combattîmes,combattîtes,combattirent,,,,,,,,,,,,
+subjonctif présent:combatte,combattes,combatte,combattions,combattiez,combattent,,,,,,,,,,,,
+subjonctif imparfait:combattisse,combattisses,combattÃ®t,combattissions,combattissiez,combattissent,,,,,,,,,,,,
+conditionnel présent:combattrais,combattrais,combattrait,combattrions,combattriez,combattraient,,,,,,,,,,,,
+impératif présent:,combats,,combattons,combattez,,,,,,,,,,,,,
+participe présent:,,combattant,,,,,,,,,,,,,,,

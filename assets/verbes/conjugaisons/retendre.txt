@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:retends,retends,retend,retendons,retendez,retendent,,,,,,,,,,,,
+indicatif imparfait:retendais,retendais,retendait,retendions,retendiez,retendaient,,,,,,,,,,,,
+indicatif futur simple:retendrai,retendras,retendra,retendrons,retendrez,retendront,,,,,,,,,,,,
+indicatif passé simple:retendis,retendis,retendit,retendîmes,retendîtes,retendirent,,,,,,,,,,,,
+subjonctif présent:retende,retendes,retende,retendions,retendiez,retendent,,,,,,,,,,,,
+subjonctif imparfait:retendisse,retendisses,retendÃ®t,retendissions,retendissiez,retendissent,,,,,,,,,,,,
+conditionnel présent:retendrais,retendrais,retendrait,retendrions,retendriez,retendraient,,,,,,,,,,,,
+impératif présent:,retends,,retendons,retendez,,,,,,,,,,,,,
+participe présent:,,retendant,,,,,,,,,,,,,,,

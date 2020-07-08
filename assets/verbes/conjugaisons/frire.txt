@@ -1,0 +1,8 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:fris,fris,frit,,,,,,,,,,,,,,,
+indicatif imparfait:,,,,,,,,,,,,,,,,,
+indicatif futur simple:frirai,friras,frira,frirons,frirez,friront,,,,,,,,,,,,
+indicatif passé simple:,,,,,,,,,,,,,,,,,
+subjonctif présent:,,,,,,,,,,,,,,,,,
+subjonctif imparfait:,,,,,,,,,,,,,,,,,
+conditionnel présent:frirais,frirais,frirait,fririons,fririez,friraient,,,,,,,,,,,,

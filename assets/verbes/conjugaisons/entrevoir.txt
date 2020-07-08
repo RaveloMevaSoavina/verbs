@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:entrevois,entrevois,entrevoit,entrevoyons,entrevoyez,entrevoient,,,,,,,,,,,,
+indicatif imparfait:entrevoyais,entrevoyais,entrevoyait,entrevoyions,entrevoyiez,entrevoyaient,,,,,,,,,,,,
+indicatif futur simple:entreverrai,entreverras,entreverra,entreverrons,entreverrez,entreverront,,,,,,,,,,,,
+indicatif passé simple:entrevis,entrevis,entrevit,entrevîmes,entrevîtes,entrevirent,,,,,,,,,,,,
+subjonctif présent:entrevoie,entrevoies,entrevoie,entrevoyions,entrevoyiez,entrevoient,,,,,,,,,,,,
+subjonctif imparfait:entrevisse,entrevisses,entrevÃ®t,entrevissions,entrevissiez,entrevissent,,,,,,,,,,,,
+conditionnel présent:entreverrais,entreverrais,entreverrait,entreverrions,entreverriez,entreverraient,,,,,,,,,,,,
+impératif présent:,entrevois,,entrevoyons,entrevoyez,,,,,,,,,,,,,
+participe présent:,,entrevoyant,,,,,,,,,,,,,,,

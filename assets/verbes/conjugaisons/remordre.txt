@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:remords,remords,remord,remordons,remordez,remordent,,,,,,,,,,,,
+indicatif imparfait:remordais,remordais,remordait,remordions,remordiez,remordaient,,,,,,,,,,,,
+indicatif futur simple:remordrai,remordras,remordra,remordrons,remordrez,remordront,,,,,,,,,,,,
+indicatif passé simple:remordis,remordis,remordit,remordîmes,remordîtes,remordirent,,,,,,,,,,,,
+subjonctif présent:remorde,remordes,remorde,remordions,remordiez,remordent,,,,,,,,,,,,
+subjonctif imparfait:remordisse,remordisses,remordÃ®t,remordissions,remordissiez,remordissent,,,,,,,,,,,,
+conditionnel présent:remordrais,remordrais,remordrait,remordrions,remordriez,remordraient,,,,,,,,,,,,
+impératif présent:,remords,,remordons,remordez,,,,,,,,,,,,,
+participe présent:,,remordant,,,,,,,,,,,,,,,

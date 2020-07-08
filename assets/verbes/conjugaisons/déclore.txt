@@ -1,0 +1,9 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:déclos,déclos,déclot,déclosent,,,,,,,,,,,,,,
+indicatif imparfait:,,,,,,,,,,,,,,,,,
+indicatif futur simple:déclorai,décloras,déclora,déclorons,déclorez,décloront,,,,,,,,,,,,
+indicatif passé simple:,,,,,,,,,,,,,,,,,
+subjonctif présent:déclose,décloses,déclose,déclosions,déclosiez,déclosent,,,,,,,,,,,,
+subjonctif imparfait:,,,,,,,,,,,,,,,,,
+conditionnel présent:déclorais,déclorais,déclorait,déclorions,décloriez,décloraient,,,,,,,,,,,,
+participe présent:,,déclosant,,,,,,,,,,,,,,,

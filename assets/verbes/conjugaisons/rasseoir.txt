@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:rassieds/rassois,rassieds/rassois,rassied/rassoit,rasseyons/rassoyons,rasseyez/rassoyez,rasseyent/rassoient,,,,,,,,,,,,
+indicatif imparfait:rasseyais/rassoyais,rasseyais/rassoyais,rasseyait/rassoyait,rasseyions/rassoyions,rasseyiez/rassoyiez,rasseyaient/rassoyaient,,,,,,,,,,,,
+indicatif futur simple:rassiérai/rasseyerai/rassoirai,rassiéras/rasseyeras/rassoiras,rassiéra/rasseyera/rassoira,rassiérons/rasseyerons/rassoirons,rassiérez/rasseyerez/rassoirez,rassiéront/rasseyeront/rassoiront,,,,,,,,,,,,
+indicatif passé simple:rassis,rassis,rassit,rassîmes,rassîtes,rassirent,,,,,,,,,,,,
+subjonctif présent:rasseye/rassoie,rasseyes/rassoies,rasseye/rassoie,rasseyions/rassoyions,rasseyiez/rassoyiez,rasseyent/rassoient,,,,,,,,,,,,
+subjonctif imparfait:rassisse,rassisses,rassÃ®t,rassissions,rassissiez,rassissent,,,,,,,,,,,,
+conditionnel présent:rassiérais/rasseyerais/rassoirais,rassiérais/rasseyerais/rassoirais,rassiérait/rasseyerait/rassoirait,rassiérions/rasseyerions/rassoirions,rassiériez/rasseyeriez/rassoiriez,rassiéraient/rasseyeraient/rassoiraient,,,,,,,,,,,,
+impératif présent:,rassieds/rassois,,rasseyons/rassoyons,rasseyez/rassoyez,,,,,,,,,,,,,
+participe présent:,,rasseyant,oyant,,,,,,,,,,,,,,,

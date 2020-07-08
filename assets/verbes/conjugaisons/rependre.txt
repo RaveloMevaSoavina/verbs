@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:repends,repends,repend,rependons,rependez,rependent,,,,,,,,,,,,
+indicatif imparfait:rependais,rependais,rependait,rependions,rependiez,rependaient,,,,,,,,,,,,
+indicatif futur simple:rependrai,rependras,rependra,rependrons,rependrez,rependront,,,,,,,,,,,,
+indicatif passé simple:rependis,rependis,rependit,rependîmes,rependîtes,rependirent,,,,,,,,,,,,
+subjonctif présent:repende,rependes,repende,rependions,rependiez,rependent,,,,,,,,,,,,
+subjonctif imparfait:rependisse,rependisses,rependÃ®t,rependissions,rependissiez,rependissent,,,,,,,,,,,,
+conditionnel présent:rependrais,rependrais,rependrait,rependrions,rependriez,rependraient,,,,,,,,,,,,
+impératif présent:,repends,,rependons,rependez,,,,,,,,,,,,,
+participe présent:,,rependant,,,,,,,,,,,,,,,

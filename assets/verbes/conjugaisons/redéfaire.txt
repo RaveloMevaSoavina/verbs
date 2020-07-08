@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:redéfais,redéfais,redéfait,redéfaisons,redéfaites,redéfont,,,,,,,,,,,,
+indicatif imparfait:redéfaisais,redéfaisais,redéfaisait,redéfaisions,redéfaisiez,redéfaisaient,,,,,,,,,,,,
+indicatif futur simple:redéferai,redéferas,redéfera,redéferons,redéferez,redéferont,,,,,,,,,,,,
+indicatif passé simple:redéfis,redéfis,redéfit,redéfîmes,redéfîtes,redéfirent,,,,,,,,,,,,
+subjonctif présent:redéfasse,redéfasses,redéfasse,redéfassions,redéfassiez,redéfassent,,,,,,,,,,,,
+subjonctif imparfait:redéfisse,redéfisses,redéfît,redéfissions,redéfissiez,redéfissent,,,,,,,,,,,,
+conditionnel présent:redéferais,redéferais,redéferait,redéferions,redéferiez,redéferaient,,,,,,,,,,,,
+impératif présent:,redéfais,,redéfaisons,redéfaites,,,,,,,,,,,,,
+participe présent:,,redÃ©faisant,,,,,,,,,,,,,,,

@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:admets,admets,admet,admettons,admettez,admettent,,,,,,,,,,,,
+indicatif imparfait:admettais,admettais,admettait,admettions,admettiez,admettaient,,,,,,,,,,,,
+indicatif futur simple:admettrai,admettras,admettra,admettrons,admettrez,admettront,,,,,,,,,,,,
+indicatif passé simple:admis,admis,admit,admîmes,admîtes,admirent,,,,,,,,,,,,
+subjonctif présent:admette,admettes,admette,admettions,admettiez,admettent,,,,,,,,,,,,
+subjonctif imparfait:admisse,admisses,admÃ®t,admissions,admissiez,admissent,,,,,,,,,,,,
+conditionnel présent:admettrais,admettrais,admettrait,admettrions,admettriez,admettraient,,,,,,,,,,,,
+impératif présent:,admets,,admettons,admettez,,,,,,,,,,,,,
+participe présent:,,admettant,,,,,,,,,,,,,,,

@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:instruis,instruis,instruit,instruisons,instruisez,instruisent,,,,,,,,,,,,
+indicatif imparfait:instruisais,instruisais,instruisait,instruisions,instruisiez,instruisaient,,,,,,,,,,,,
+indicatif futur simple:instruirai,instruiras,instruira,instruirons,instruirez,instruiront,,,,,,,,,,,,
+indicatif passé simple:instruisis,instruisis,instruisit,instruisîmes,instruisîtes,instruisirent,,,,,,,,,,,,
+subjonctif présent:instruise,instruises,instruise,instruisions,instruisiez,instruisent,,,,,,,,,,,,
+subjonctif imparfait:instruisisse,instruisisses,instruisÃ®t,instruisissions,instruisissiez,instruisissent,,,,,,,,,,,,
+conditionnel présent:instruirais,instruirais,instruirait,instruirions,instruiriez,instruiraient,,,,,,,,,,,,
+impératif présent:,instruis,,instruisons,instruisez,,,,,,,,,,,,,
+participe présent:,,instruisant,,,,,,,,,,,,,,,

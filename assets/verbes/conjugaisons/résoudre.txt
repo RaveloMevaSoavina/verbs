@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:résous,résous,résout,résolvons,résolvez,résolvent,,,,,,,,,,,,
+indicatif imparfait:résolvais,résolvais,résolvait,résolvions,résolviez,résolvaient,,,,,,,,,,,,
+indicatif futur simple:résoudrai,résoudras,résoudra,résoudrons,résoudrez,résoudront,,,,,,,,,,,,
+indicatif passé simple:résolus,résolus,résolut,résolûmes,résolûtes,résolurent,,,,,,,,,,,,
+subjonctif présent:résolve,résolves,résolve,résolvions,résolviez,résolvent,,,,,,,,,,,,
+subjonctif imparfait:résolusse,résolusses,résolût,résolussions,résolussiez,résolussent,,,,,,,,,,,,
+conditionnel présent:résoudrais,résoudrais,résoudrait,résoudrions,résoudriez,résoudraient,,,,,,,,,,,,
+impératif présent:,résous,,résolvons,résolvez,,,,,,,,,,,,,
+participe présent:,,résolvant,,,,,,,,,,,,,,,

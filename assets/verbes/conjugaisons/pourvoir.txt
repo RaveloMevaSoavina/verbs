@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:pourvois,pourvois,pourvoit,pourvoyons,pourvoyez,pourvoient,,,,,,,,,,,,
+indicatif imparfait:pourvoyais,pourvoyais,pourvoyait,pourvoyions,pourvoyiez,pourvoyaient,,,,,,,,,,,,
+indicatif futur simple:pourvoirai,pourvoiras,pourvoira,pourvoirons,pourvoirez,pourvoiront,,,,,,,,,,,,
+indicatif passé simple:pourvus,pourvus,pourvut,pourvûmes,pourvûtes,pourvurent,,,,,,,,,,,,
+subjonctif présent:pourvoie,pourvoies,pourvoie,pourvoyions,pourvoyiez,pourvoient,,,,,,,,,,,,
+subjonctif imparfait:pourvusse,pourvusses,pourvÃ»t,pourvussions,pourvussiez,pourvussent,,,,,,,,,,,,
+conditionnel présent:pourvoirais,pourvoirais,pourvoirait,pourvoirions,pourvoiriez,pourvoiraient,,,,,,,,,,,,
+impératif présent:,pourvois,,pourvoyons,pourvoyez,,,,,,,,,,,,,
+participe présent:,,pourvoyant,,,,,,,,,,,,,,,

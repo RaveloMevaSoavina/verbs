@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:rentrouvre,rentrouvres,rentrouvre,rentrouvrons,rentrouvrez,rentrouvrent,,,,,,,,,,,,
+indicatif imparfait:rentrouvrais,rentrouvrais,rentrouvrait,rentrouvrions,rentrouvriez,rentrouvraient,,,,,,,,,,,,
+indicatif futur simple:rentrouvrirai,rentrouvriras,rentrouvrira,rentrouvrirons,rentrouvrirez,rentrouvriront,,,,,,,,,,,,
+indicatif passé simple:rentrouvris,rentrouvris,rentrouvrit,rentrouvrîmes,rentrouvrîtes,rentrouvrirent,,,,,,,,,,,,
+subjonctif présent:rentrouvre,rentrouvres,rentrouvre,rentrouvrions,rentrouvriez,rentrouvrent,,,,,,,,,,,,
+subjonctif imparfait:rentrouvrisse,rentrouvrisses,rentrouvrÃ®t,rentrouvrissions,rentrouvrissiez,rentrouvrissent,,,,,,,,,,,,
+conditionnel présent:rentrouvrirais,rentrouvrirais,rentrouvrirait,rentrouvririons,rentrouvririez,rentrouvriraient,,,,,,,,,,,,
+impératif présent:,rentrouvre,,rentrouvrons,rentrouvrez,,,,,,,,,,,,,
+participe présent:,,rentrouvrant,,,,,,,,,,,,,,,

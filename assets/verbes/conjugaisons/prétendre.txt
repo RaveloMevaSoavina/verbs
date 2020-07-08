@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:prétends,prétends,prétend,prétendons,prétendez,prétendent,,,,,,,,,,,,
+indicatif imparfait:prétendais,prétendais,prétendait,prétendions,prétendiez,prétendaient,,,,,,,,,,,,
+indicatif futur simple:prétendrai,prétendras,prétendra,prétendrons,prétendrez,prétendront,,,,,,,,,,,,
+indicatif passé simple:prétendis,prétendis,prétendit,prétendîmes,prétendîtes,prétendirent,,,,,,,,,,,,
+subjonctif présent:prétende,prétendes,prétende,prétendions,prétendiez,prétendent,,,,,,,,,,,,
+subjonctif imparfait:prétendisse,prétendisses,prétendît,prétendissions,prétendissiez,prétendissent,,,,,,,,,,,,
+conditionnel présent:prétendrais,prétendrais,prétendrait,prétendrions,prétendriez,prétendraient,,,,,,,,,,,,
+impératif présent:,prétends,,prétendons,prétendez,,,,,,,,,,,,,
+participe présent:,,prétendant,,,,,,,,,,,,,,,

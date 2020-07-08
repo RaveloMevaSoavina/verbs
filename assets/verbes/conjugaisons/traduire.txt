@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:traduis,traduis,traduit,traduisons,traduisez,traduisent,,,,,,,,,,,,
+indicatif imparfait:traduisais,traduisais,traduisait,traduisions,traduisiez,traduisaient,,,,,,,,,,,,
+indicatif futur simple:traduirai,traduiras,traduira,traduirons,traduirez,traduiront,,,,,,,,,,,,
+indicatif passé simple:traduisis,traduisis,traduisit,traduisîmes,traduisîtes,traduisirent,,,,,,,,,,,,
+subjonctif présent:traduise,traduises,traduise,traduisions,traduisiez,traduisent,,,,,,,,,,,,
+subjonctif imparfait:traduisisse,traduisisses,traduisÃ®t,traduisissions,traduisissiez,traduisissent,,,,,,,,,,,,
+conditionnel présent:traduirais,traduirais,traduirait,traduirions,traduiriez,traduiraient,,,,,,,,,,,,
+impératif présent:,traduis,,traduisons,traduisez,,,,,,,,,,,,,
+participe présent:,,traduisant,,,,,,,,,,,,,,,

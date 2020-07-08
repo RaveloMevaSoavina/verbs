@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:endors,endors,endort,endormons,endormez,endorment,,,,,,,,,,,,
+indicatif imparfait:endormais,endormais,endormait,endormions,endormiez,endormaient,,,,,,,,,,,,
+indicatif futur simple:endormirai,endormiras,endormira,endormirons,endormirez,endormiront,,,,,,,,,,,,
+indicatif passé simple:endormis,endormis,endormit,endormîmes,endormîtes,endormirent,,,,,,,,,,,,
+subjonctif présent:endorme,endormes,endorme,endormions,endormiez,endorment,,,,,,,,,,,,
+subjonctif imparfait:endormisse,endormisses,endormÃ®t,endormissions,endormissiez,endormissent,,,,,,,,,,,,
+conditionnel présent:endormirais,endormirais,endormirait,endormirions,endormiriez,endormiraient,,,,,,,,,,,,
+impératif présent:,endors,,endormons,endormez,,,,,,,,,,,,,
+participe présent:,,endormant,,,,,,,,,,,,,,,

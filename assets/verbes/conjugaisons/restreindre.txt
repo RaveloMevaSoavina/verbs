@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:restreins,restreins,restreint,restreignons,restreignez,restreignent,,,,,,,,,,,,
+indicatif imparfait:restreignais,restreignais,restreignait,restreignions,restreigniez,restreignaient,,,,,,,,,,,,
+indicatif futur simple:restreindrai,restreindras,restreindra,restreindrons,restreindrez,restreindront,,,,,,,,,,,,
+indicatif passé simple:restreignis,restreignis,restreignit,restreignîmes,restreignîtes,restreignirent,,,,,,,,,,,,
+subjonctif présent:restreigne,restreignes,restreigne,restreignions,restreigniez,restreignent,,,,,,,,,,,,
+subjonctif imparfait:restreignisse,restreignisses,restreignÃ®t,restreignissions,restreignissiez,restreignissent,,,,,,,,,,,,
+conditionnel présent:restreindrais,restreindrais,restreindrait,restreindrions,restreindriez,restreindraient,,,,,,,,,,,,
+impératif présent:,restreins,,restreignons,restreignez,,,,,,,,,,,,,
+participe présent:,,restreignant,,,,,,,,,,,,,,,

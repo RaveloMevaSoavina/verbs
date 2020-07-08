@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:réintroduis,réintroduis,réintroduit,réintroduisons,réintroduisez,réintroduisent,,,,,,,,,,,,
+indicatif imparfait:réintroduisais,réintroduisais,réintroduisait,réintroduisions,réintroduisiez,réintroduisaient,,,,,,,,,,,,
+indicatif futur simple:réintroduirai,réintroduiras,réintroduira,réintroduirons,réintroduirez,réintroduiront,,,,,,,,,,,,
+indicatif passé simple:réintroduisis,réintroduisis,réintroduisit,réintroduisîmes,réintroduisîtes,réintroduisirent,,,,,,,,,,,,
+subjonctif présent:réintroduise,réintroduises,réintroduise,réintroduisions,réintroduisiez,réintroduisent,,,,,,,,,,,,
+subjonctif imparfait:réintroduisisse,réintroduisisses,réintroduisît,réintroduisissions,réintroduisissiez,réintroduisissent,,,,,,,,,,,,
+conditionnel présent:réintroduirais,réintroduirais,réintroduirait,réintroduirions,réintroduiriez,réintroduiraient,,,,,,,,,,,,
+impératif présent:,réintroduis,,réintroduisons,réintroduisez,,,,,,,,,,,,,
+participe présent:,,rÃ©introduisant,,,,,,,,,,,,,,,

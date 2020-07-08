@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:trais,trais,trait,trayons,trayez,traient,,,,,,,,,,,,
+indicatif imparfait:trayais,trayais,trayait,trayions,trayiez,trayaient,,,,,,,,,,,,
+indicatif futur simple:trairai,trairas,traira,trairons,trairez,trairont,,,,,,,,,,,,
+indicatif passé simple:,,,,,,,,,,,,,,,,,
+subjonctif présent:traie,traies,traie,trayions,trayiez,traient,,,,,,,,,,,,
+subjonctif imparfait:,,,,,,,,,,,,,,,,,
+conditionnel présent:trairais,trairais,trairait,trairions,trairiez,trairaient,,,,,,,,,,,,
+impératif présent:,trais,,trayons,trayez,,,,,,,,,,,,,
+participe présent:,,trayant,,,,,,,,,,,,,,,

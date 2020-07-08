@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:émets,émets,émet,émettons,émettez,émettent,,,,,,,,,,,,
+indicatif imparfait:émettais,émettais,émettait,émettions,émettiez,émettaient,,,,,,,,,,,,
+indicatif futur simple:émettrai,émettras,émettra,émettrons,émettrez,émettront,,,,,,,,,,,,
+indicatif passé simple:émis,émis,émit,émîmes,émîtes,émirent,,,,,,,,,,,,
+subjonctif présent:émette,émettes,émette,émettions,émettiez,émettent,,,,,,,,,,,,
+subjonctif imparfait:émisse,émisses,émît,émissions,émissiez,émissent,,,,,,,,,,,,
+conditionnel présent:émettrais,émettrais,émettrait,émettrions,émettriez,émettraient,,,,,,,,,,,,
+impératif présent:,émets,,émettons,émettez,,,,,,,,,,,,,
+participe présent:,,Ã©mettant,,,,,,,,,,,,,,,

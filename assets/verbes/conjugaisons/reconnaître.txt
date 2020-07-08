@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:reconnais,reconnais,reconnaÃ®t,reconnaissons,reconnaissez,reconnaissent,,,,,,,,,,,,
+indicatif imparfait:reconnaissais,reconnaissais,reconnaissait,reconnaissions,reconnaissiez,reconnaissaient,,,,,,,,,,,,
+indicatif futur simple:reconnaîtrai,reconnaîtras,reconnaîtra,reconnaîtrons,reconnaîtrez,reconnaîtront,,,,,,,,,,,,
+indicatif passé simple:reconnus,reconnus,reconnut,reconnûmes,reconnûtes,reconnurent,,,,,,,,,,,,
+subjonctif présent:reconnaisse,reconnaisses,reconnaisse,reconnaissions,reconnaissiez,reconnaissent,,,,,,,,,,,,
+subjonctif imparfait:reconnusse,reconnusses,reconnÃ»t,reconnussions,reconnussiez,reconnussent,,,,,,,,,,,,
+conditionnel présent:reconnaîtrais,reconnaîtrais,reconnaîtrait,reconnaîtrions,reconnaîtriez,reconnaîtraient,,,,,,,,,,,,
+impératif présent:,reconnais,,reconnaissons,reconnaissez,,,,,,,,,,,,,
+participe présent:,,reconnaissant,,,,,,,,,,,,,,,

@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:tressaille,tressailles,tressaille,tressaillons,tressaillez,tressaillent,,,,,,,,,,,,
+indicatif imparfait:tressaillais,tressaillais,tressaillait,tressaillions,tressailliez,tressaillaient,,,,,,,,,,,,
+indicatif futur simple:tressaillirai,tressailliras,tressaillira,tressaillirons,tressaillirez,tressailliront,,,,,,,,,,,,
+indicatif passé simple:tressaillis,tressaillis,tressaillit,tressaillîmes,tressaillîtes,tressaillirent,,,,,,,,,,,,
+subjonctif présent:tressaille,tressailles,tressaille,tressaillions,tressailliez,tressaillent,,,,,,,,,,,,
+subjonctif imparfait:tressaillisse,tressaillisses,tressaillÃ®t,tressaillissions,tressaillissiez,tressaillissent,,,,,,,,,,,,
+conditionnel présent:tressaillirais,tressaillirais,tressaillirait,tressaillirions,tressailliriez,tressailliraient,,,,,,,,,,,,
+impératif présent:,tressaille,,tressaillons,tressaillez,,,,,,,,,,,,,
+participe présent:,,tressaillant,,,,,,,,,,,,,,,

@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:éconduis,éconduis,éconduit,éconduisons,éconduisez,éconduisent,,,,,,,,,,,,
+indicatif imparfait:éconduisais,éconduisais,éconduisait,éconduisions,éconduisiez,éconduisaient,,,,,,,,,,,,
+indicatif futur simple:éconduirai,éconduiras,éconduira,éconduirons,éconduirez,éconduiront,,,,,,,,,,,,
+indicatif passé simple:éconduisis,éconduisis,éconduisit,éconduisîmes,éconduisîtes,éconduisirent,,,,,,,,,,,,
+subjonctif présent:éconduise,éconduises,éconduise,éconduisions,éconduisiez,éconduisent,,,,,,,,,,,,
+subjonctif imparfait:éconduisisse,éconduisisses,éconduisît,éconduisissions,éconduisissiez,éconduisissent,,,,,,,,,,,,
+conditionnel présent:éconduirais,éconduirais,éconduirait,éconduirions,éconduiriez,éconduiraient,,,,,,,,,,,,
+impératif présent:,éconduis,,éconduisons,éconduisez,,,,,,,,,,,,,
+participe présent:,,Ã©conduisant,,,,,,,,,,,,,,,

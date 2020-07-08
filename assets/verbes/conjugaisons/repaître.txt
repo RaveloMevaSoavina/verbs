@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:repais,repais,repaÃ®t,repaissons,repaissez,repaissent,,,,,,,,,,,,
+indicatif imparfait:repaissais,repaissais,repaissait,repaissions,repaissiez,repaissaient,,,,,,,,,,,,
+indicatif futur simple:repaîtrai,repaîtras,repaîtra,repaîtrons,repaîtrez,repaîtront,,,,,,,,,,,,
+indicatif passé simple:repus,repus,reput,repûmes,repûtes,repurent,,,,,,,,,,,,
+subjonctif présent:repaisse,repaisses,repaisse,repaissions,repaissiez,repaissent,,,,,,,,,,,,
+subjonctif imparfait:repusse,repusses,repÃ»t,repussions,repussiez,repussent,,,,,,,,,,,,
+conditionnel présent:repaîtrais,repaîtrais,repaîtrait,repaîtrions,repaîtriez,repaîtraient,,,,,,,,,,,,
+impératif présent:,repais,,repaissons,repaissez,,,,,,,,,,,,,
+participe présent:,,repaissant,,,,,,,,,,,,,,,

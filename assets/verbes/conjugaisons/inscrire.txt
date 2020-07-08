@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:inscris,inscris,inscrit,inscrivons,inscrivez,inscrivent,,,,,,,,,,,,
+indicatif imparfait:inscrivais,inscrivais,inscrivait,inscrivions,inscriviez,inscrivaient,,,,,,,,,,,,
+indicatif futur simple:inscrirai,inscriras,inscrira,inscrirons,inscrirez,inscriront,,,,,,,,,,,,
+indicatif passé simple:inscrivis,inscrivis,inscrivit,inscrivîmes,inscrivîtes,inscrivirent,,,,,,,,,,,,
+subjonctif présent:inscrive,inscrives,inscrive,inscrivions,inscriviez,inscrivent,,,,,,,,,,,,
+subjonctif imparfait:inscrivisse,inscrivisses,inscrivÃ®t,inscrivissions,inscrivissiez,inscrivissent,,,,,,,,,,,,
+conditionnel présent:inscrirais,inscrirais,inscrirait,inscririons,inscririez,inscriraient,,,,,,,,,,,,
+impératif présent:,inscris,,inscrivons,inscrivez,,,,,,,,,,,,,
+participe présent:,,inscrivant,,,,,,,,,,,,,,,

@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:contiens,contiens,contient,contenons,contenez,contiennent,,,,,,,,,,,,
+indicatif imparfait:contenais,contenais,contenait,contenions,conteniez,contenaient,,,,,,,,,,,,
+indicatif futur simple:contiendrai,contiendras,contiendra,contiendrons,contiendrez,contiendront,,,,,,,,,,,,
+indicatif passé simple:contins,contins,contint,contînmes,contîntes,continrent,,,,,,,,,,,,
+subjonctif présent:contienne,contiennes,contienne,contenions,conteniez,contiennent,,,,,,,,,,,,
+subjonctif imparfait:continsse,continsses,contÃ®nt,continssions,continssiez,continssent,,,,,,,,,,,,
+conditionnel présent:contiendrais,contiendrais,contiendrait,contiendrions,contiendriez,contiendraient,,,,,,,,,,,,
+impératif présent:,contiens,,contenons,contenez,,,,,,,,,,,,,
+participe présent:,,contenant,,,,,,,,,,,,,,,

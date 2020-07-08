@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:apprends,apprends,apprend,apprenons,apprenez,apprennent,,,,,,,,,,,,
+indicatif imparfait:apprenais,apprenais,apprenait,apprenions,appreniez,apprenaient,,,,,,,,,,,,
+indicatif futur simple:apprendrai,apprendras,apprendra,apprendrons,apprendrez,apprendront,,,,,,,,,,,,
+indicatif passé simple:appris,appris,apprit,apprîmes,apprîtes,apprirent,,,,,,,,,,,,
+subjonctif présent:apprenne,apprennes,apprenne,apprenions,appreniez,apprennent,,,,,,,,,,,,
+subjonctif imparfait:apprisse,apprisses,apprÃ®t,apprissions,apprissiez,apprissent,,,,,,,,,,,,
+conditionnel présent:apprendrais,apprendrais,apprendrait,apprendrions,apprendriez,apprendraient,,,,,,,,,,,,
+impératif présent:,apprends,,apprenons,apprenez,,,,,,,,,,,,,
+participe présent:,,apprenant,,,,,,,,,,,,,,,

@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:démords,démords,démord,démordons,démordez,démordent,,,,,,,,,,,,
+indicatif imparfait:démordais,démordais,démordait,démordions,démordiez,démordaient,,,,,,,,,,,,
+indicatif futur simple:démordrai,démordras,démordra,démordrons,démordrez,démordront,,,,,,,,,,,,
+indicatif passé simple:démordis,démordis,démordit,démordîmes,démordîtes,démordirent,,,,,,,,,,,,
+subjonctif présent:démorde,démordes,démorde,démordions,démordiez,démordent,,,,,,,,,,,,
+subjonctif imparfait:démordisse,démordisses,démordît,démordissions,démordissiez,démordissent,,,,,,,,,,,,
+conditionnel présent:démordrais,démordrais,démordrait,démordrions,démordriez,démordraient,,,,,,,,,,,,
+impératif présent:,démords,,démordons,démordez,,,,,,,,,,,,,
+participe présent:,,démordant,,,,,,,,,,,,,,,

@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:détords,détords,détord,détordons,détordez,détordent,,,,,,,,,,,,
+indicatif imparfait:détordais,détordais,détordait,détordions,détordiez,détordaient,,,,,,,,,,,,
+indicatif futur simple:détordrai,détordras,détordra,détordrons,détordrez,détordront,,,,,,,,,,,,
+indicatif passé simple:détordis,détordis,détordit,détordîmes,détordîtes,détordirent,,,,,,,,,,,,
+subjonctif présent:détorde,détordes,détorde,détordions,détordiez,détordent,,,,,,,,,,,,
+subjonctif imparfait:détordisse,détordisses,détordît,détordissions,détordissiez,détordissent,,,,,,,,,,,,
+conditionnel présent:détordrais,détordrais,détordrait,détordrions,détordriez,détordraient,,,,,,,,,,,,
+impératif présent:,détords,,détordons,détordez,,,,,,,,,,,,,
+participe présent:,,détordant,,,,,,,,,,,,,,,

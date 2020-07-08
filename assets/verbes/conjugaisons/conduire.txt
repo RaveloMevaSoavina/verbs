@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:conduis,conduis,conduit,conduisons,conduisez,conduisent,,,,,,,,,,,,
+indicatif imparfait:conduisais,conduisais,conduisait,conduisions,conduisiez,conduisaient,,,,,,,,,,,,
+indicatif futur simple:conduirai,conduiras,conduira,conduirons,conduirez,conduiront,,,,,,,,,,,,
+indicatif passé simple:conduisis,conduisis,conduisit,conduisîmes,conduisîtes,conduisirent,,,,,,,,,,,,
+subjonctif présent:conduise,conduises,conduise,conduisions,conduisiez,conduisent,,,,,,,,,,,,
+subjonctif imparfait:conduisisse,conduisisses,conduisÃ®t,conduisissions,conduisissiez,conduisissent,,,,,,,,,,,,
+conditionnel présent:conduirais,conduirais,conduirait,conduirions,conduiriez,conduiraient,,,,,,,,,,,,
+impératif présent:,conduis,,conduisons,conduisez,,,,,,,,,,,,,
+participe présent:,,conduisant,,,,,,,,,,,,,,,

@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:dépends,dépends,dépend,dépendons,dépendez,dépendent,,,,,,,,,,,,
+indicatif imparfait:dépendais,dépendais,dépendait,dépendions,dépendiez,dépendaient,,,,,,,,,,,,
+indicatif futur simple:dépendrai,dépendras,dépendra,dépendrons,dépendrez,dépendront,,,,,,,,,,,,
+indicatif passé simple:dépendis,dépendis,dépendit,dépendîmes,dépendîtes,dépendirent,,,,,,,,,,,,
+subjonctif présent:dépende,dépendes,dépende,dépendions,dépendiez,dépendent,,,,,,,,,,,,
+subjonctif imparfait:dépendisse,dépendisses,dépendît,dépendissions,dépendissiez,dépendissent,,,,,,,,,,,,
+conditionnel présent:dépendrais,dépendrais,dépendrait,dépendrions,dépendriez,dépendraient,,,,,,,,,,,,
+impératif présent:,dépends,,dépendons,dépendez,,,,,,,,,,,,,
+participe présent:,,dépendant,,,,,,,,,,,,,,,

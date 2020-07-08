@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:lis,lis,lit,lisons,lisez,lisent,,,,,,,,,,,,
+indicatif imparfait:lisais,lisais,lisait,lisions,lisiez,lisaient,,,,,,,,,,,,
+indicatif futur simple:lirai,liras,lira,lirons,lirez,liront,,,,,,,,,,,,
+indicatif passé simple:lus,lus,lut,lûmes,lûtes,lurent,,,,,,,,,,,,
+subjonctif présent:lise,lises,lise,lisions,lisiez,lisent,,,,,,,,,,,,
+subjonctif imparfait:lusse,lusses,lÃ»t,lussions,lussiez,lussent,,,,,,,,,,,,
+conditionnel présent:lirais,lirais,lirait,lirions,liriez,liraient,,,,,,,,,,,,
+impératif présent:,lis,,lisons,lisez,,,,,,,,,,,,,
+participe présent:,,lisant,,,,,,,,,,,,,,,

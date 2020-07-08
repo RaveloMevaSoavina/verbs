@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:retransmets,retransmets,retransmet,retransmettons,retransmettez,retransmettent,,,,,,,,,,,,
+indicatif imparfait:retransmettais,retransmettais,retransmettait,retransmettions,retransmettiez,retransmettaient,,,,,,,,,,,,
+indicatif futur simple:retransmettrai,retransmettras,retransmettra,retransmettrons,retransmettrez,retransmettront,,,,,,,,,,,,
+indicatif passé simple:retransmis,retransmis,retransmit,retransmîmes,retransmîtes,retransmirent,,,,,,,,,,,,
+subjonctif présent:retransmette,retransmettes,retransmette,retransmettions,retransmettiez,retransmettent,,,,,,,,,,,,
+subjonctif imparfait:retransmisse,retransmisses,retransmÃ®t,retransmissions,retransmissiez,retransmissent,,,,,,,,,,,,
+conditionnel présent:retransmettrais,retransmettrais,retransmettrait,retransmettrions,retransmettriez,retransmettraient,,,,,,,,,,,,
+impératif présent:,retransmets,,retransmettons,retransmettez,,,,,,,,,,,,,
+participe présent:,,retransmettant,,,,,,,,,,,,,,,

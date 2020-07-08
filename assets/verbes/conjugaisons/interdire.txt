@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:interdis,interdis,interdit,interdisons,interdisez,interdisent,,,,,,,,,,,,
+indicatif imparfait:interdisais,interdisais,interdisait,interdisions,interdisiez,interdisaient,,,,,,,,,,,,
+indicatif futur simple:interdirai,interdiras,interdira,interdirons,interdirez,interdiront,,,,,,,,,,,,
+indicatif passé simple:interdis,interdis,interdit,interdîmes,interdîtes,interdirent,,,,,,,,,,,,
+subjonctif présent:interdise,interdises,interdise,interdisions,interdisiez,interdisent,,,,,,,,,,,,
+subjonctif imparfait:interdisse,interdisses,interdÃ®t,interdissions,interdissiez,interdissent,,,,,,,,,,,,
+conditionnel présent:interdirais,interdirais,interdirait,interdirions,interdiriez,interdiraient,,,,,,,,,,,,
+impératif présent:,interdis,,interdisons,interdisez,,,,,,,,,,,,,
+participe présent:,,interdisant,,,,,,,,,,,,,,,

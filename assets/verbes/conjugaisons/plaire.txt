@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:plais,plais,plaÃ®t,plaisons,plaisez,plaisent,,,,,,,,,,,,
+indicatif imparfait:plaisais,plaisais,plaisait,plaisions,plaisiez,plaisaient,,,,,,,,,,,,
+indicatif futur simple:plairai,plairas,plaira,plairons,plairez,plairont,,,,,,,,,,,,
+indicatif passé simple:plus,plus,plut,plûmes,plûtes,plurent,,,,,,,,,,,,
+subjonctif présent:plaise,plaises,plaise,plaisions,plaisiez,plaisent,,,,,,,,,,,,
+subjonctif imparfait:plusse,plusses,plÃ»t,plussions,plussiez,plussent,,,,,,,,,,,,
+conditionnel présent:plairais,plairais,plairait,plairions,plairiez,plairaient,,,,,,,,,,,,
+impératif présent:,plais,,plaisons,plaisez,,,,,,,,,,,,,
+participe présent:,,plaisant,,,,,,,,,,,,,,,

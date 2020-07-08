@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:reconstruis,reconstruis,reconstruit,reconstruisons,reconstruisez,reconstruisent,,,,,,,,,,,,
+indicatif imparfait:reconstruisais,reconstruisais,reconstruisait,reconstruisions,reconstruisiez,reconstruisaient,,,,,,,,,,,,
+indicatif futur simple:reconstruirai,reconstruiras,reconstruira,reconstruirons,reconstruirez,reconstruiront,,,,,,,,,,,,
+indicatif passé simple:reconstruisis,reconstruisis,reconstruisit,reconstruisîmes,reconstruisîtes,reconstruisirent,,,,,,,,,,,,
+subjonctif présent:reconstruise,reconstruises,reconstruise,reconstruisions,reconstruisiez,reconstruisent,,,,,,,,,,,,
+subjonctif imparfait:reconstruisisse,reconstruisisses,reconstruisÃ®t,reconstruisissions,reconstruisissiez,reconstruisissent,,,,,,,,,,,,
+conditionnel présent:reconstruirais,reconstruirais,reconstruirait,reconstruirions,reconstruiriez,reconstruiraient,,,,,,,,,,,,
+impératif présent:,reconstruis,,reconstruisons,reconstruisez,,,,,,,,,,,,,
+participe présent:,,reconstruisant,,,,,,,,,,,,,,,

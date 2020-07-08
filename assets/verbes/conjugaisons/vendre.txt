@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:vends,vends,vend,vendons,vendez,vendent,,,,,,,,,,,,
+indicatif imparfait:vendais,vendais,vendait,vendions,vendiez,vendaient,,,,,,,,,,,,
+indicatif futur simple:vendrai,vendras,vendra,vendrons,vendrez,vendront,,,,,,,,,,,,
+indicatif passé simple:vendis,vendis,vendit,vendîmes,vendîtes,vendirent,,,,,,,,,,,,
+subjonctif présent:vende,vendes,vende,vendions,vendiez,vendent,,,,,,,,,,,,
+subjonctif imparfait:vendisse,vendisses,vendÃ®t,vendissions,vendissiez,vendissent,,,,,,,,,,,,
+conditionnel présent:vendrais,vendrais,vendrait,vendrions,vendriez,vendraient,,,,,,,,,,,,
+impératif présent:,vends,,vendons,vendez,,,,,,,,,,,,,
+participe présent:,,vendant,,,,,,,,,,,,,,,

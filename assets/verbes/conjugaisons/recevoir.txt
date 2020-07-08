@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:reçois,reçois,reçoit,recevons,recevez,reçoivent,,,,,,,,,,,,
+indicatif imparfait:recevais,recevais,recevait,recevions,receviez,recevaient,,,,,,,,,,,,
+indicatif futur simple:recevrai,recevras,recevra,recevrons,recevrez,recevront,,,,,,,,,,,,
+indicatif passé simple:reçus,reçus,reçut,reçûmes,reçûtes,reçurent,,,,,,,,,,,,
+subjonctif présent:reçoive,reçoives,reçoive,recevions,receviez,reçoivent,,,,,,,,,,,,
+subjonctif imparfait:reçusse,reçusses,reçût,reçussions,reçussiez,reçussent,,,,,,,,,,,,
+conditionnel présent:recevrais,recevrais,recevrait,recevrions,recevriez,recevraient,,,,,,,,,,,,
+impératif présent:,reÃ§ois,,recevons,recevez,,,,,,,,,,,,,
+participe présent:,,recevant,,,,,,,,,,,,,,,

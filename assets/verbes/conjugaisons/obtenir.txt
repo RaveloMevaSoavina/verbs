@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:obtiens,obtiens,obtient,obtenons,obtenez,obtiennent,,,,,,,,,,,,
+indicatif imparfait:obtenais,obtenais,obtenait,obtenions,obteniez,obtenaient,,,,,,,,,,,,
+indicatif futur simple:obtiendrai,obtiendras,obtiendra,obtiendrons,obtiendrez,obtiendront,,,,,,,,,,,,
+indicatif passé simple:obtins,obtins,obtint,obtînmes,obtîntes,obtinrent,,,,,,,,,,,,
+subjonctif présent:obtienne,obtiennes,obtienne,obtenions,obteniez,obtiennent,,,,,,,,,,,,
+subjonctif imparfait:obtinsse,obtinsses,obtÃ®nt,obtinssions,obtinssiez,obtinssent,,,,,,,,,,,,
+conditionnel présent:obtiendrais,obtiendrais,obtiendrait,obtiendrions,obtiendriez,obtiendraient,,,,,,,,,,,,
+impératif présent:,obtiens,,obtenons,obtenez,,,,,,,,,,,,,
+participe présent:,,obtenant,,,,,,,,,,,,,,,

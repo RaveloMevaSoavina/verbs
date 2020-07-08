@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:prends,prends,prend,prenons,prenez,prennent,,,,,,,,,,,,
+indicatif imparfait:prenais,prenais,prenait,prenions,preniez,prenaient,,,,,,,,,,,,
+indicatif futur simple:prendrai,prendras,prendra,prendrons,prendrez,prendront,,,,,,,,,,,,
+indicatif passé simple:pris,pris,prit,prîmes,prîtes,prirent,,,,,,,,,,,,
+subjonctif présent:prenne,prennes,prenne,prenions,preniez,prennent,,,,,,,,,,,,
+subjonctif imparfait:prisse,prisses,prÃ®t,prissions,prissiez,prissent,,,,,,,,,,,,
+conditionnel présent:prendrais,prendrais,prendrait,prendrions,prendriez,prendraient,,,,,,,,,,,,
+impératif présent:,prends,,prenons,prenez,,,,,,,,,,,,,
+participe présent:,,prenant,,,,,,,,,,,,,,,

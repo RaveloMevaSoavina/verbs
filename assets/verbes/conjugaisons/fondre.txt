@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:fonds,fonds,fond,fondons,fondez,fondent,,,,,,,,,,,,
+indicatif imparfait:fondais,fondais,fondait,fondions,fondiez,fondaient,,,,,,,,,,,,
+indicatif futur simple:fondrai,fondras,fondra,fondrons,fondrez,fondront,,,,,,,,,,,,
+indicatif passé simple:fondis,fondis,fondit,fondîmes,fondîtes,fondirent,,,,,,,,,,,,
+subjonctif présent:fonde,fondes,fonde,fondions,fondiez,fondent,,,,,,,,,,,,
+subjonctif imparfait:fondisse,fondisses,fondÃ®t,fondissions,fondissiez,fondissent,,,,,,,,,,,,
+conditionnel présent:fondrais,fondrais,fondrait,fondrions,fondriez,fondraient,,,,,,,,,,,,
+impératif présent:,fonds,,fondons,fondez,,,,,,,,,,,,,
+participe présent:,,fondant,,,,,,,,,,,,,,,

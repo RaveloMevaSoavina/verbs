@@ -1,0 +1,11 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:bruit,bruissent,,,,,,,,,,,,,,,,
+indicatif imparfait:bruissait,bruissaient,,,,,,,,,,,,,,,,
+indicatif futur simple:,,,,,,,,,,,,,,,,,
+indicatif passé simple:,,,,,,,,,,,,,,,,,
+subjonctif présent:bruisse,bruissent,,,,,,,,,,,,,,,,
+subjonctif imparfait:,,,,,,,,,,,,,,,,,
+conditionnel présent:,,,,,,,,,,,,,,,,,
+impératif présent:,,,,,,,,,,,,,,,,,
+participe présent:,,bruissant,,,,,,,,,,,,,,,
+participe passé:,,,,,,,,,,,,,,,,,

@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:joins,joins,joint,joignons,joignez,joignent,,,,,,,,,,,,
+indicatif imparfait:joignais,joignais,joignait,joignions,joigniez,joignaient,,,,,,,,,,,,
+indicatif futur simple:joindrai,joindras,joindra,joindrons,joindrez,joindront,,,,,,,,,,,,
+indicatif passé simple:joignis,joignis,joignit,joignîmes,joignîtes,joignirent,,,,,,,,,,,,
+subjonctif présent:joigne,joignes,joigne,joignions,joigniez,joignent,,,,,,,,,,,,
+subjonctif imparfait:joignisse,joignisses,joignÃ®t,joignissions,joignissiez,joignissent,,,,,,,,,,,,
+conditionnel présent:joindrais,joindrais,joindrait,joindrions,joindriez,joindraient,,,,,,,,,,,,
+impératif présent:,joins,,joignons,joignez,,,,,,,,,,,,,
+participe présent:,,joignant,,,,,,,,,,,,,,,

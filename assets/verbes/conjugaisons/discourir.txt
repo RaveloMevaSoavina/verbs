@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:discours,discours,discourt,discourons,discourez,discourent,,,,,,,,,,,,
+indicatif imparfait:discourais,discourais,discourait,discourions,discouriez,discouraient,,,,,,,,,,,,
+indicatif futur simple:discourrai,discourras,discourra,discourrons,discourrez,discourront,,,,,,,,,,,,
+indicatif passé simple:discourus,discourus,discourut,discourûmes,discourûtes,discoururent,,,,,,,,,,,,
+subjonctif présent:discoure,discoures,discoure,discourions,discouriez,discourent,,,,,,,,,,,,
+subjonctif imparfait:discourusse,discourusses,discourÃ»t,discourussions,discourussiez,discourussent,,,,,,,,,,,,
+conditionnel présent:discourrais,discourrais,discourrait,discourrions,discourriez,discourraient,,,,,,,,,,,,
+impératif présent:,discours,,discourons,discourez,,,,,,,,,,,,,
+participe présent:,,discourant,,,,,,,,,,,,,,,

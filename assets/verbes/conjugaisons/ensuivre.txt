@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:ensuis,ensuis,ensuit,ensuivons,ensuivez,ensuivent,,,,,,,,,,,,
+indicatif imparfait:ensuivais,ensuivais,ensuivait,ensuivions,ensuiviez,ensuivaient,,,,,,,,,,,,
+indicatif futur simple:ensuivrai,ensuivras,ensuivra,ensuivrons,ensuivrez,ensuivront,,,,,,,,,,,,
+indicatif passé simple:ensuivis,ensuivis,ensuivit,ensuivîmes,ensuivîtes,ensuivirent,,,,,,,,,,,,
+subjonctif présent:ensuive,ensuives,ensuive,ensuivions,ensuiviez,ensuivent,,,,,,,,,,,,
+subjonctif imparfait:ensuivisse,ensuivisses,ensuivÃ®t,ensuivissions,ensuivissiez,ensuivissent,,,,,,,,,,,,
+conditionnel présent:ensuivrais,ensuivrais,ensuivrait,ensuivrions,ensuivriez,ensuivraient,,,,,,,,,,,,
+impératif présent:,ensuis,,ensuivons,ensuivez,,,,,,,,,,,,,
+participe présent:,,ensuivant,,,,,,,,,,,,,,,

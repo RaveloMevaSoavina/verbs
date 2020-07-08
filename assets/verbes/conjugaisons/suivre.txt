@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:suis,suis,suit,suivons,suivez,suivent,,,,,,,,,,,,
+indicatif imparfait:suivais,suivais,suivait,suivions,suiviez,suivaient,,,,,,,,,,,,
+indicatif futur simple:suivrai,suivras,suivra,suivrons,suivrez,suivront,,,,,,,,,,,,
+indicatif passé simple:suivis,suivis,suivit,suivîmes,suivîtes,suivirent,,,,,,,,,,,,
+subjonctif présent:suive,suives,suive,suivions,suiviez,suivent,,,,,,,,,,,,
+subjonctif imparfait:suivisse,suivisses,suivÃ®t,suivissions,suivissiez,suivissent,,,,,,,,,,,,
+conditionnel présent:suivrais,suivrais,suivrait,suivrions,suivriez,suivraient,,,,,,,,,,,,
+impératif présent:,suis,,suivons,suivez,,,,,,,,,,,,,
+participe présent:,,suivant,,,,,,,,,,,,,,,

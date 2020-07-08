@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:tends,tends,tend,tendons,tendez,tendent,,,,,,,,,,,,
+indicatif imparfait:tendais,tendais,tendait,tendions,tendiez,tendaient,,,,,,,,,,,,
+indicatif futur simple:tendrai,tendras,tendra,tendrons,tendrez,tendront,,,,,,,,,,,,
+indicatif passé simple:tendis,tendis,tendit,tendîmes,tendîtes,tendirent,,,,,,,,,,,,
+subjonctif présent:tende,tendes,tende,tendions,tendiez,tendent,,,,,,,,,,,,
+subjonctif imparfait:tendisse,tendisses,tendÃ®t,tendissions,tendissiez,tendissent,,,,,,,,,,,,
+conditionnel présent:tendrais,tendrais,tendrait,tendrions,tendriez,tendraient,,,,,,,,,,,,
+impératif présent:,tends,,tendons,tendez,,,,,,,,,,,,,
+participe présent:,,tendant,,,,,,,,,,,,,,,

@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:malfais,malfais,malfait,malfaisons,malfaites,malfont,,,,,,,,,,,,
+indicatif imparfait:malfaisais,malfaisais,malfaisait,malfaisions,malfaisiez,malfaisaient,,,,,,,,,,,,
+indicatif futur simple:malferai,malferas,malfera,malferons,malferez,malferont,,,,,,,,,,,,
+indicatif passé simple:malfis,malfis,malfit,malfîmes,malfîtes,malfirent,,,,,,,,,,,,
+subjonctif présent:malfasse,malfasses,malfasse,malfassions,malfassiez,malfassent,,,,,,,,,,,,
+subjonctif imparfait:malfisse,malfisses,malfÃ®t,malfissions,malfissiez,malfissent,,,,,,,,,,,,
+conditionnel présent:malferais,malferais,malferait,malferions,malferiez,malferaient,,,,,,,,,,,,
+impératif présent:,malfais,,malfaisons,malfaites,,,,,,,,,,,,,
+participe présent:,,malfaisant,,,,,,,,,,,,,,,

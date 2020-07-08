@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:concours,concours,concourt,concourons,concourez,concourent,,,,,,,,,,,,
+indicatif imparfait:concourais,concourais,concourait,concourions,concouriez,concouraient,,,,,,,,,,,,
+indicatif futur simple:concourrai,concourras,concourra,concourrons,concourrez,concourront,,,,,,,,,,,,
+indicatif passé simple:concourus,concourus,concourut,concourûmes,concourûtes,concoururent,,,,,,,,,,,,
+subjonctif présent:concoure,concoures,concoure,concourions,concouriez,concourent,,,,,,,,,,,,
+subjonctif imparfait:concourusse,concourusses,concourÃ»t,concourussions,concourussiez,concourussent,,,,,,,,,,,,
+conditionnel présent:concourrais,concourrais,concourrait,concourrions,concourriez,concourraient,,,,,,,,,,,,
+impératif présent:,concours,,concourons,concourez,,,,,,,,,,,,,
+participe présent:,,concourant,,,,,,,,,,,,,,,

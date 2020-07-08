@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:dépeins,dépeins,dépeint,dépeignons,dépeignez,dépeignent,,,,,,,,,,,,
+indicatif imparfait:dépeignais,dépeignais,dépeignait,dépeignions,dépeigniez,dépeignaient,,,,,,,,,,,,
+indicatif futur simple:dépeindrai,dépeindras,dépeindra,dépeindrons,dépeindrez,dépeindront,,,,,,,,,,,,
+indicatif passé simple:dépeignis,dépeignis,dépeignit,dépeignîmes,dépeignîtes,dépeignirent,,,,,,,,,,,,
+subjonctif présent:dépeigne,dépeignes,dépeigne,dépeignions,dépeigniez,dépeignent,,,,,,,,,,,,
+subjonctif imparfait:dépeignisse,dépeignisses,dépeignît,dépeignissions,dépeignissiez,dépeignissent,,,,,,,,,,,,
+conditionnel présent:dépeindrais,dépeindrais,dépeindrait,dépeindrions,dépeindriez,dépeindraient,,,,,,,,,,,,
+impératif présent:,dépeins,,dépeignons,dépeignez,,,,,,,,,,,,,
+participe présent:,,dépeignant,,,,,,,,,,,,,,,

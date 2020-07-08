@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:enceins,enceins,enceint,enceignons,enceignez,enceignent,,,,,,,,,,,,
+indicatif imparfait:enceignais,enceignais,enceignait,enceignions,enceigniez,enceignaient,,,,,,,,,,,,
+indicatif futur simple:enceindrai,enceindras,enceindra,enceindrons,enceindrez,enceindront,,,,,,,,,,,,
+indicatif passé simple:enceignis,enceignis,enceignit,enceignîmes,enceignîtes,enceignirent,,,,,,,,,,,,
+subjonctif présent:enceigne,enceignes,enceigne,enceignions,enceigniez,enceignent,,,,,,,,,,,,
+subjonctif imparfait:enceignisse,enceignisses,enceignÃ®t,enceignissions,enceignissiez,enceignissent,,,,,,,,,,,,
+conditionnel présent:enceindrais,enceindrais,enceindrait,enceindrions,enceindriez,enceindraient,,,,,,,,,,,,
+impératif présent:,enceins,,enceignons,enceignez,,,,,,,,,,,,,
+participe présent:,,enceignant,,,,,,,,,,,,,,,

@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:sors,sors,sort,sortons,sortez,sortent,,,,,,,,,,,,
+indicatif imparfait:sortais,sortais,sortait,sortions,sortiez,sortaient,,,,,,,,,,,,
+indicatif futur simple:sortirai,sortiras,sortira,sortirons,sortirez,sortiront,,,,,,,,,,,,
+indicatif passé simple:sortis,sortis,sortit,sortîmes,sortîtes,sortirent,,,,,,,,,,,,
+subjonctif présent:sorte,sortes,sorte,sortions,sortiez,sortent,,,,,,,,,,,,
+subjonctif imparfait:sortisse,sortisses,sortÃ®t,sortissions,sortissiez,sortissent,,,,,,,,,,,,
+conditionnel présent:sortirais,sortirais,sortirait,sortirions,sortiriez,sortiraient,,,,,,,,,,,,
+impératif présent:,sors,,sortons,sortez,,,,,,,,,,,,,
+participe présent:,,sortant,,,,,,,,,,,,,,,

@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:geins,geins,geint,geignons,geignez,geignent,,,,,,,,,,,,
+indicatif imparfait:geignais,geignais,geignait,geignions,geigniez,geignaient,,,,,,,,,,,,
+indicatif futur simple:geindrai,geindras,geindra,geindrons,geindrez,geindront,,,,,,,,,,,,
+indicatif passé simple:geignis,geignis,geignit,geignîmes,geignîtes,geignirent,,,,,,,,,,,,
+subjonctif présent:geigne,geignes,geigne,geignions,geigniez,geignent,,,,,,,,,,,,
+subjonctif imparfait:geignisse,geignisses,geignÃ®t,geignissions,geignissiez,geignissent,,,,,,,,,,,,
+conditionnel présent:geindrais,geindrais,geindrait,geindrions,geindriez,geindraient,,,,,,,,,,,,
+impératif présent:,geins,,geignons,geignez,,,,,,,,,,,,,
+participe présent:,,geignant,,,,,,,,,,,,,,,

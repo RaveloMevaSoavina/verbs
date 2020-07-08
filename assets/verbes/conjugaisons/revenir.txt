@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:reviens,reviens,revient,revenons,revenez,reviennent,,,,,,,,,,,,
+indicatif imparfait:revenais,revenais,revenait,revenions,reveniez,revenaient,,,,,,,,,,,,
+indicatif futur simple:reviendrai,reviendras,reviendra,reviendrons,reviendrez,reviendront,,,,,,,,,,,,
+indicatif passé simple:revins,revins,revint,revînmes,revîntes,revinrent,,,,,,,,,,,,
+subjonctif présent:revienne,reviennes,revienne,revenions,reveniez,reviennent,,,,,,,,,,,,
+subjonctif imparfait:revinsse,revinsses,revÃ®nt,revinssions,revinssiez,revinssent,,,,,,,,,,,,
+conditionnel présent:reviendrais,reviendrais,reviendrait,reviendrions,reviendriez,reviendraient,,,,,,,,,,,,
+impératif présent:,reviens,,revenons,revenez,,,,,,,,,,,,,
+participe présent:,,revenant,,,,,,,,,,,,,,,

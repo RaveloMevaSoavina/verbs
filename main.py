@@ -5,6 +5,8 @@ from constants import *
 
 
 class VerbDictionnary:
+    groupes: dict
+    terms: dict
 
     def __init__(self, groupes, terms):
         self.groupes = groupes
@@ -51,11 +53,23 @@ class VerbDictionnary:
                 return dict((entitycode, list(method(verbe, entitycode, timecode, terminaison))) for
                             entitycode, terminaison in
                             self.terms[groupe][timecode].items())
+        elif groupe == 3:
+            if verbe in self.terms:
+                if timecode in self.terms[verbe]:
+                    if entitycode:
+                        return self.terms[verbe][timecode][entitycode]
+                    else:
+                        return self.terms[verbe][timecode]
+                else:
+                    raise Exception(
+                        f"[TIMECODE] --- La conjugaison pour le verbe ``{verbe}`` au temps ``{timecode}`` est inconnue.")
+            else:
+                raise Exception(f"[VERBE   ] --- La conjugaison pour le verbe ``{verbe}`` est inconnue.")
         else:
-            raise Exception
+            raise Exception(f"[GROUPE  ] --- Le groupe {groupe} est inconnu.")
 
     @classmethod
-    def fromDir(cls, dirpath):
+    def fromDir(cls, dirpath: str):
         """Crée un VerbDictionnary à partir d'un dossier valide"""
         assert os.path.exists(dirpath), "directory should exists"
         groupes = {
@@ -67,9 +81,15 @@ class VerbDictionnary:
             1: read_conj_file(f'{dirpath}\\conjugaisons\\1.txt'),
             2: read_conj_file(f'{dirpath}\\conjugaisons\\2.txt')
         }
+        for filename in os.listdir(f'{dirpath}\\conjugaisons'):
+            if filename.endswith('.txt') and filename not in ('1.txt', '2.txt'):
+                verbe = filename.split('.')[0]
+                conj = read_conj_file(f'{dirpath}\\conjugaisons\\{filename}', full=True)
+                if conj.keys():
+                    terms[verbe] = conj
         return cls(groupes, terms)
 
-    def toDir(self, dirpath):
+    def toDir(self, dirpath: str):
         """Crée un dossier pour stocker les informations du dictionnaire"""
         assert not os.path.exists(dirpath), "directory shouldn't exists"
         os.makedirs(f'{dirpath}\\conjugaisons')
@@ -80,7 +100,7 @@ class VerbDictionnary:
         for groupe, data in D.groupes.items():
             write_word_file(f'{dirpath}\\infinitifs\\{groupe}.txt', data)
 
-    def toXMLFile(self, filepath):
+    def toXMLFile(self, filepath: str):
         """
             Exporte le dictionnaire au format xml
             /!\ attention cette opération peut être longue et crée un fichier massif (+ de 14 MB)
@@ -135,6 +155,15 @@ def mise_en_forme(data):
 if __name__ == '__main__':
     D = VerbDictionnary.fromDir('assets\\verbes')
 
+    # # affiche les conjugaisons manquantes (verbes ou temps) pour les verbes du 3ème groupe
+    # import sys
+    # for verbe in D.group2verbs(3):
+    #     for timecode in TIMECODES:
+    #         try:
+    #             r = D.conjugate(verbe, timecode)
+    #         except Exception as e:
+    #             print(e, file=sys.stderr)
+
     # # génère un fichier xml représentatif du dictionnaire (génère toutes les conjugaisons faisables)
     # D.toXMLFile('verb_dict.xml')
 
@@ -176,7 +205,6 @@ if __name__ == '__main__':
     # # version brute / formatée
     # print(D.conjugate("manger", T_PARTICIPE_PASSE))
     # print(mise_en_forme(D.conjugate("manger", T_PARTICIPE_PASSE)))
-
 
     # # affiche pour la conjugaison de 'manger' au présent de l'indicatif à la première personne du singulier
     # # version brute / formatée

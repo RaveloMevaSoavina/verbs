@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:contredis,contredis,contredit,contredisons,contredites/contredisez,contredisent,,,,,,,,,,,,
+indicatif imparfait:contredisais,contredisais,contredisait,contredisions,contredisiez,contredisaient,,,,,,,,,,,,
+indicatif futur simple:contredirai,contrediras,contredira,contredirons,contredirez,contrediront,,,,,,,,,,,,
+indicatif passé simple:contredis,contredis,contredit,contredîmes,contredîtes,contredirent,,,,,,,,,,,,
+subjonctif présent:contredise,contredises,contredise,contredisions,contredisiez,contredisent,,,,,,,,,,,,
+subjonctif imparfait:contredisse,contredisses,contredÃ®t,contredissions,contredissiez,contredissent,,,,,,,,,,,,
+conditionnel présent:contredirais,contredirais,contredirait,contredirions,contrediriez,contrediraient,,,,,,,,,,,,
+impératif présent:,contredis,,contredisons,contredites/contredisez,,,,,,,,,,,,,
+participe présent:,,contredisant,,,,,,,,,,,,,,,

@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:ris,ris,rit,rions,riez,rient,,,,,,,,,,,,
+indicatif imparfait:riais,riais,riait,riions,riiez,riaient,,,,,,,,,,,,
+indicatif futur simple:rirai,riras,rira,rirons,rirez,riront,,,,,,,,,,,,
+indicatif passé simple:ris,ris,rit,rîmes,rîtes,rirent,,,,,,,,,,,,
+subjonctif présent:rie,ries,rie,riions,riiez,rient,,,,,,,,,,,,
+subjonctif imparfait:risse,risses,rÃ®t,rissions,rissiez,rissent,,,,,,,,,,,,
+conditionnel présent:rirais,rirais,rirait,ririons,ririez,riraient,,,,,,,,,,,,
+impératif présent:,ris,,rions,riez,,,,,,,,,,,,,
+participe présent:,,riant,,,,,,,,,,,,,,,

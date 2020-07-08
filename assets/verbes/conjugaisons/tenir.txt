@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:tiens,tiens,tient,tenons,tenez,tiennent,,,,,,,,,,,,
+indicatif imparfait:tenais,tenais,tenait,tenions,teniez,tenaient,,,,,,,,,,,,
+indicatif futur simple:tiendrai,tiendras,tiendra,tiendrons,tiendrez,tiendront,,,,,,,,,,,,
+indicatif passé simple:tins,tins,tint,tînmes,tîntes,tinrent,,,,,,,,,,,,
+subjonctif présent:tienne,tiennes,tienne,tenions,teniez,tiennent,,,,,,,,,,,,
+subjonctif imparfait:tinsse,tinsses,tÃ®nt,tinssions,tinssiez,tinssent,,,,,,,,,,,,
+conditionnel présent:tiendrais,tiendrais,tiendrait,tiendrions,tiendriez,tiendraient,,,,,,,,,,,,
+impératif présent:,tiens,,tenons,tenez,,,,,,,,,,,,,
+participe présent:,,tenant,,,,,,,,,,,,,,,

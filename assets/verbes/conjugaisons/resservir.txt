@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:ressers,ressers,ressert,resservons,resservez,resservent,,,,,,,,,,,,
+indicatif imparfait:resservais,resservais,resservait,resservions,resserviez,resservaient,,,,,,,,,,,,
+indicatif futur simple:resservirai,resserviras,resservira,resservirons,resservirez,resserviront,,,,,,,,,,,,
+indicatif passé simple:resservis,resservis,resservit,resservîmes,resservîtes,resservirent,,,,,,,,,,,,
+subjonctif présent:resserve,resserves,resserve,resservions,resserviez,resservent,,,,,,,,,,,,
+subjonctif imparfait:resservisse,resservisses,resservÃ®t,resservissions,resservissiez,resservissent,,,,,,,,,,,,
+conditionnel présent:resservirais,resservirais,resservirait,resservirions,resserviriez,resserviraient,,,,,,,,,,,,
+impératif présent:,ressers,,resservons,resservez,,,,,,,,,,,,,
+participe présent:,,resservant,,,,,,,,,,,,,,,

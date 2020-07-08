@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:pars,pars,part,partons,partez,partent,,,,,,,,,,,,
+indicatif imparfait:partais,partais,partait,partions,partiez,partaient,,,,,,,,,,,,
+indicatif futur simple:partirai,partiras,partira,partirons,partirez,partiront,,,,,,,,,,,,
+indicatif passé simple:partis,partis,partit,partîmes,partîtes,partirent,,,,,,,,,,,,
+subjonctif présent:parte,partes,parte,partions,partiez,partent,,,,,,,,,,,,
+subjonctif imparfait:partisse,partisses,partÃ®t,partissions,partissiez,partissent,,,,,,,,,,,,
+conditionnel présent:partirais,partirais,partirait,partirions,partiriez,partiraient,,,,,,,,,,,,
+impératif présent:,pars,,partons,partez,,,,,,,,,,,,,
+participe présent:,,partant,,,,,,,,,,,,,,,

@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:encours,encours,encourt,encourons,encourez,encourent,,,,,,,,,,,,
+indicatif imparfait:encourais,encourais,encourait,encourions,encouriez,encouraient,,,,,,,,,,,,
+indicatif futur simple:encourrai,encourras,encourra,encourrons,encourrez,encourront,,,,,,,,,,,,
+indicatif passé simple:encourus,encourus,encourut,encourûmes,encourûtes,encoururent,,,,,,,,,,,,
+subjonctif présent:encoure,encoures,encoure,encourions,encouriez,encourent,,,,,,,,,,,,
+subjonctif imparfait:encourusse,encourusses,encourÃ»t,encourussions,encourussiez,encourussent,,,,,,,,,,,,
+conditionnel présent:encourrais,encourrais,encourrait,encourrions,encourriez,encourraient,,,,,,,,,,,,
+impératif présent:,encours,,encourons,encourez,,,,,,,,,,,,,
+participe présent:,,encourant,,,,,,,,,,,,,,,

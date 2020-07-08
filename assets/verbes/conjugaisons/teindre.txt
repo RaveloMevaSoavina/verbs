@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:teins,teins,teint,teignons,teignez,teignent,,,,,,,,,,,,
+indicatif imparfait:teignais,teignais,teignait,teignions,teigniez,teignaient,,,,,,,,,,,,
+indicatif futur simple:teindrai,teindras,teindra,teindrons,teindrez,teindront,,,,,,,,,,,,
+indicatif passé simple:teignis,teignis,teignit,teignîmes,teignîtes,teignirent,,,,,,,,,,,,
+subjonctif présent:teigne,teignes,teigne,teignions,teigniez,teignent,,,,,,,,,,,,
+subjonctif imparfait:teignisse,teignisses,teignÃ®t,teignissions,teignissiez,teignissent,,,,,,,,,,,,
+conditionnel présent:teindrais,teindrais,teindrait,teindrions,teindriez,teindraient,,,,,,,,,,,,
+impératif présent:,teins,,teignons,teignez,,,,,,,,,,,,,
+participe présent:,,teignant,,,,,,,,,,,,,,,

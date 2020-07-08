@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:mords,mords,mord,mordons,mordez,mordent,,,,,,,,,,,,
+indicatif imparfait:mordais,mordais,mordait,mordions,mordiez,mordaient,,,,,,,,,,,,
+indicatif futur simple:mordrai,mordras,mordra,mordrons,mordrez,mordront,,,,,,,,,,,,
+indicatif passé simple:mordis,mordis,mordit,mordîmes,mordîtes,mordirent,,,,,,,,,,,,
+subjonctif présent:morde,mordes,morde,mordions,mordiez,mordent,,,,,,,,,,,,
+subjonctif imparfait:mordisse,mordisses,mordÃ®t,mordissions,mordissiez,mordissent,,,,,,,,,,,,
+conditionnel présent:mordrais,mordrais,mordrait,mordrions,mordriez,mordraient,,,,,,,,,,,,
+impératif présent:,mords,,mordons,mordez,,,,,,,,,,,,,
+participe présent:,,mordant,,,,,,,,,,,,,,,

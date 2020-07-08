@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:réapprends,réapprends,réapprend,réapprenons,réapprenez,réapprennent,,,,,,,,,,,,
+indicatif imparfait:réapprenais,réapprenais,réapprenait,réapprenions,réappreniez,réapprenaient,,,,,,,,,,,,
+indicatif futur simple:réapprendrai,réapprendras,réapprendra,réapprendrons,réapprendrez,réapprendront,,,,,,,,,,,,
+indicatif passé simple:réappris,réappris,réapprit,réapprîmes,réapprîtes,réapprirent,,,,,,,,,,,,
+subjonctif présent:réapprenne,réapprennes,réapprenne,réapprenions,réappreniez,réapprennent,,,,,,,,,,,,
+subjonctif imparfait:réapprisse,réapprisses,réapprît,réapprissions,réapprissiez,réapprissent,,,,,,,,,,,,
+conditionnel présent:réapprendrais,réapprendrais,réapprendrait,réapprendrions,réapprendriez,réapprendraient,,,,,,,,,,,,
+impératif présent:,réapprends,,réapprenons,réapprenez,,,,,,,,,,,,,
+participe présent:,,réapprenant,,,,,,,,,,,,,,,

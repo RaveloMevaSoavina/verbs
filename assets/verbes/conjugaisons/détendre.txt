@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:détends,détends,détend,détendons,détendez,détendent,,,,,,,,,,,,
+indicatif imparfait:détendais,détendais,détendait,détendions,détendiez,détendaient,,,,,,,,,,,,
+indicatif futur simple:détendrai,détendras,détendra,détendrons,détendrez,détendront,,,,,,,,,,,,
+indicatif passé simple:détendis,détendis,détendit,détendîmes,détendîtes,détendirent,,,,,,,,,,,,
+subjonctif présent:détende,détendes,détende,détendions,détendiez,détendent,,,,,,,,,,,,
+subjonctif imparfait:détendisse,détendisses,détendît,détendissions,détendissiez,détendissent,,,,,,,,,,,,
+conditionnel présent:détendrais,détendrais,détendrait,détendrions,détendriez,détendraient,,,,,,,,,,,,
+impératif présent:,détends,,détendons,détendez,,,,,,,,,,,,,
+participe présent:,,détendant,,,,,,,,,,,,,,,

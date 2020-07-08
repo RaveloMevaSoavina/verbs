@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:entrouvre,entrouvres,entrouvre,entrouvrons,entrouvrez,entrouvrent,,,,,,,,,,,,
+indicatif imparfait:entrouvrais,entrouvrais,entrouvrait,entrouvrions,entrouvriez,entrouvraient,,,,,,,,,,,,
+indicatif futur simple:entrouvrirai,entrouvriras,entrouvrira,entrouvrirons,entrouvrirez,entrouvriront,,,,,,,,,,,,
+indicatif passé simple:entrouvris,entrouvris,entrouvrit,entrouvrîmes,entrouvrîtes,entrouvrirent,,,,,,,,,,,,
+subjonctif présent:entrouvre,entrouvres,entrouvre,entrouvrions,entrouvriez,entrouvrent,,,,,,,,,,,,
+subjonctif imparfait:entrouvrisse,entrouvrisses,entrouvrÃ®t,entrouvrissions,entrouvrissiez,entrouvrissent,,,,,,,,,,,,
+conditionnel présent:entrouvrirais,entrouvrirais,entrouvrirait,entrouvririons,entrouvririez,entrouvriraient,,,,,,,,,,,,
+impératif présent:,entrouvre,,entrouvrons,entrouvrez,,,,,,,,,,,,,
+participe présent:,,entrouvrant,,,,,,,,,,,,,,,

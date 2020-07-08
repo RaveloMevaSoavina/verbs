@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:perçois,perçois,perçoit,percevons,percevez,perçoivent,,,,,,,,,,,,
+indicatif imparfait:percevais,percevais,percevait,percevions,perceviez,percevaient,,,,,,,,,,,,
+indicatif futur simple:percevrai,percevras,percevra,percevrons,percevrez,percevront,,,,,,,,,,,,
+indicatif passé simple:perçus,perçus,perçut,perçûmes,perçûtes,perçurent,,,,,,,,,,,,
+subjonctif présent:perçoive,perçoives,perçoive,percevions,perceviez,perçoivent,,,,,,,,,,,,
+subjonctif imparfait:perçusse,perçusses,perçût,perçussions,perçussiez,perçussent,,,,,,,,,,,,
+conditionnel présent:percevrais,percevrais,percevrait,percevrions,percevriez,percevraient,,,,,,,,,,,,
+impératif présent:,perÃ§ois,,percevons,percevez,,,,,,,,,,,,,
+participe présent:,,percevant,,,,,,,,,,,,,,,

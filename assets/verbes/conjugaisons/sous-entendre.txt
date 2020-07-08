@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:sous-entends,sous-entends,sous-entend,sous-entendons,sous-entendez,sous-entendent,,,,,,,,,,,,
+indicatif imparfait:sous-entendais,sous-entendais,sous-entendait,sous-entendions,sous-entendiez,sous-entendaient,,,,,,,,,,,,
+indicatif futur simple:sous-entendrai,sous-entendras,sous-entendra,sous-entendrons,sous-entendrez,sous-entendront,,,,,,,,,,,,
+indicatif passé simple:sous-entendis,sous-entendis,sous-entendit,sous-entendîmes,sous-entendîtes,sous-entendirent,,,,,,,,,,,,
+subjonctif présent:sous-entende,sous-entendes,sous-entende,sous-entendions,sous-entendiez,sous-entendent,,,,,,,,,,,,
+subjonctif imparfait:sous-entendisse,sous-entendisses,sous-entendÃ®t,sous-entendissions,sous-entendissiez,sous-entendissent,,,,,,,,,,,,
+conditionnel présent:sous-entendrais,sous-entendrais,sous-entendrait,sous-entendrions,sous-entendriez,sous-entendraient,,,,,,,,,,,,
+impératif présent:,sous-entends,,sous-entendons,sous-entendez,,,,,,,,,,,,,
+participe présent:,,sous-entendant,,,,,,,,,,,,,,,

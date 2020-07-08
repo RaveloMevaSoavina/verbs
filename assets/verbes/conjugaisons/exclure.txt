@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:exclus,exclus,exclut,excluons,excluez,excluent,,,,,,,,,,,,
+indicatif imparfait:excluais,excluais,excluait,excluions,excluiez,excluaient,,,,,,,,,,,,
+indicatif futur simple:exclurai,excluras,exclura,exclurons,exclurez,excluront,,,,,,,,,,,,
+indicatif passé simple:exclus,exclus,exclut,exclûmes,exclûtes,exclurent,,,,,,,,,,,,
+subjonctif présent:exclue,exclues,exclue,excluions,excluiez,excluent,,,,,,,,,,,,
+subjonctif imparfait:exclusse,exclusses,exclÃ»t,exclussions,exclussiez,exclussent,,,,,,,,,,,,
+conditionnel présent:exclurais,exclurais,exclurait,exclurions,excluriez,excluraient,,,,,,,,,,,,
+impératif présent:,exclus,,excluons,excluez,,,,,,,,,,,,,
+participe présent:,,excluant,,,,,,,,,,,,,,,

@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:promets,promets,promet,promettons,promettez,promettent,,,,,,,,,,,,
+indicatif imparfait:promettais,promettais,promettait,promettions,promettiez,promettaient,,,,,,,,,,,,
+indicatif futur simple:promettrai,promettras,promettra,promettrons,promettrez,promettront,,,,,,,,,,,,
+indicatif passé simple:promis,promis,promit,promîmes,promîtes,promirent,,,,,,,,,,,,
+subjonctif présent:promette,promettes,promette,promettions,promettiez,promettent,,,,,,,,,,,,
+subjonctif imparfait:promisse,promisses,promÃ®t,promissions,promissiez,promissent,,,,,,,,,,,,
+conditionnel présent:promettrais,promettrais,promettrait,promettrions,promettriez,promettraient,,,,,,,,,,,,
+impératif présent:,promets,,promettons,promettez,,,,,,,,,,,,,
+participe présent:,,promettant,,,,,,,,,,,,,,,

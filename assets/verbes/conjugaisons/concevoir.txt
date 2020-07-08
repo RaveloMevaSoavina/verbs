@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:conçois,conçois,conçoit,concevons,concevez,conçoivent,,,,,,,,,,,,
+indicatif imparfait:concevais,concevais,concevait,concevions,conceviez,concevaient,,,,,,,,,,,,
+indicatif futur simple:concevrai,concevras,concevra,concevrons,concevrez,concevront,,,,,,,,,,,,
+indicatif passé simple:conçus,conçus,conçut,conçûmes,conçûtes,conçurent,,,,,,,,,,,,
+subjonctif présent:conçoive,conçoives,conçoive,concevions,conceviez,conçoivent,,,,,,,,,,,,
+subjonctif imparfait:conçusse,conçusses,conçût,conçussions,conçussiez,conçussent,,,,,,,,,,,,
+conditionnel présent:concevrais,concevrais,concevrait,concevrions,concevriez,concevraient,,,,,,,,,,,,
+impératif présent:,conÃ§ois,,concevons,concevez,,,,,,,,,,,,,
+participe présent:,,concevant,,,,,,,,,,,,,,,

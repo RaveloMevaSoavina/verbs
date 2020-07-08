@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:enfreins,enfreins,enfreint,enfreignons,enfreignez,enfreignent,,,,,,,,,,,,
+indicatif imparfait:enfreignais,enfreignais,enfreignait,enfreignions,enfreigniez,enfreignaient,,,,,,,,,,,,
+indicatif futur simple:enfreindrai,enfreindras,enfreindra,enfreindrons,enfreindrez,enfreindront,,,,,,,,,,,,
+indicatif passé simple:enfreignis,enfreignis,enfreignit,enfreignîmes,enfreignîtes,enfreignirent,,,,,,,,,,,,
+subjonctif présent:enfreigne,enfreignes,enfreigne,enfreignions,enfreigniez,enfreignent,,,,,,,,,,,,
+subjonctif imparfait:enfreignisse,enfreignisses,enfreignÃ®t,enfreignissions,enfreignissiez,enfreignissent,,,,,,,,,,,,
+conditionnel présent:enfreindrais,enfreindrais,enfreindrait,enfreindrions,enfreindriez,enfreindraient,,,,,,,,,,,,
+impératif présent:,enfreins,,enfreignons,enfreignez,,,,,,,,,,,,,
+participe présent:,,enfreignant,,,,,,,,,,,,,,,

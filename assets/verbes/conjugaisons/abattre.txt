@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:abats,abats,,abattons,abattez,abattent,,,,,,,,,,,,
+indicatif imparfait:abattais,abattais,abattait,abattions,abattiez,abattaient,,,,,,,,,,,,
+indicatif futur simple:abattrai,abattras,abattra,abattrons,abattrez,abattront,,,,,,,,,,,,
+indicatif passé simple:abattis,abattis,abattit,abattîmes,abattîtes,abattirent,,,,,,,,,,,,
+subjonctif présent:abatte,abattes,abatte,abattions,abattiez,abattent,,,,,,,,,,,,
+subjonctif imparfait:abattisse,abattisses,abattÃ®t,abattissions,abattissiez,abattissent,,,,,,,,,,,,
+conditionnel présent:abattrais,abattrais,abattrait,abattrions,abattriez,abattraient,,,,,,,,,,,,
+impératif présent:,abats,,abattons,abattez,,,,,,,,,,,,,
+participe présent:,,abattant,,,,,,,,,,,,,,,

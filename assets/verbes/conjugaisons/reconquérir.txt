@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:reconquiers,reconquiers,reconquiert,reconquérons,reconquérez,reconquièrent,,,,,,,,,,,,
+indicatif imparfait:reconquérais,reconquérais,reconquérait,reconquérions,reconquériez,reconquéraient,,,,,,,,,,,,
+indicatif futur simple:reconquerrai,reconquerras,reconquerra,reconquerrons,reconquerrez,reconquerront,,,,,,,,,,,,
+indicatif passé simple:reconquis,reconquis,reconquit,reconquîmes,reconquîtes,reconquirent,,,,,,,,,,,,
+subjonctif présent:reconquière,reconquières,reconquière,reconquérions,reconquériez,reconquièrent,,,,,,,,,,,,
+subjonctif imparfait:reconquisse,reconquisses,reconquÃ®t,reconquissions,reconquissiez,reconquissent,,,,,,,,,,,,
+conditionnel présent:reconquerrais,reconquerrais,reconquerrait,reconquerrions,reconquerriez,reconquerraient,,,,,,,,,,,,
+impératif présent:,reconquiers,,reconquérons,reconquérez,,,,,,,,,,,,,
+participe présent:,,reconquérant,,,,,,,,,,,,,,,

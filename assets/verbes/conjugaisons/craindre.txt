@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:crains,crains,craint,craignons,craignez,craignent,,,,,,,,,,,,
+indicatif imparfait:craignais,craignais,craignait,craignions,craigniez,craignaient,,,,,,,,,,,,
+indicatif futur simple:craindrai,craindras,craindra,craindrons,craindrez,craindront,,,,,,,,,,,,
+indicatif passé simple:craignis,craignis,craignit,craignîmes,craignîtes,craignirent,,,,,,,,,,,,
+subjonctif présent:craigne,craignes,craigne,craignions,craigniez,craignent,,,,,,,,,,,,
+subjonctif imparfait:craignisse,craignisses,craignÃ®t,craignissions,craignissiez,craignissent,,,,,,,,,,,,
+conditionnel présent:craindrais,craindrais,craindrait,craindrions,craindriez,craindraient,,,,,,,,,,,,
+impératif présent:,crains,,craignons,craignez,,,,,,,,,,,,,
+participe présent:,,craignant,,,,,,,,,,,,,,,

@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:contrains,contrains,contraint,contraignons,contraignez,contraignent,,,,,,,,,,,,
+indicatif imparfait:contraignais,contraignais,contraignait,contraignions,contraigniez,contraignaient,,,,,,,,,,,,
+indicatif futur simple:contraindrai,contraindras,contraindra,contraindrons,contraindrez,contraindront,,,,,,,,,,,,
+indicatif passé simple:contraignis,contraignis,contraignit,contraignîmes,contraignîtes,contraignirent,,,,,,,,,,,,
+subjonctif présent:contraigne,contraignes,contraigne,contraignions,contraigniez,contraignent,,,,,,,,,,,,
+subjonctif imparfait:contraignisse,contraignisses,contraignÃ®t,contraignissions,contraignissiez,contraignissent,,,,,,,,,,,,
+conditionnel présent:contraindrais,contraindrais,contraindrait,contraindrions,contraindriez,contraindraient,,,,,,,,,,,,
+impératif présent:,contrains,,contraignons,contraignez,,,,,,,,,,,,,
+participe présent:,,contraignant,,,,,,,,,,,,,,,

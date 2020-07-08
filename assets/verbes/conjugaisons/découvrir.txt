@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:découvre,découvres,découvre,découvrons,découvrez,découvrent,,,,,,,,,,,,
+indicatif imparfait:découvrais,découvrais,découvrait,découvrions,découvriez,découvraient,,,,,,,,,,,,
+indicatif futur simple:découvrirai,découvriras,découvrira,découvrirons,découvrirez,découvriront,,,,,,,,,,,,
+indicatif passé simple:découvris,découvris,découvrit,découvrîmes,découvrîtes,découvrirent,,,,,,,,,,,,
+subjonctif présent:découvre,découvres,découvre,découvrions,découvriez,découvrent,,,,,,,,,,,,
+subjonctif imparfait:découvrisse,découvrisses,découvrît,découvrissions,découvrissiez,découvrissent,,,,,,,,,,,,
+conditionnel présent:découvrirais,découvrirais,découvrirait,découvririons,découvririez,découvriraient,,,,,,,,,,,,
+impératif présent:,découvre,,découvrons,découvrez,,,,,,,,,,,,,
+participe présent:,,découvrant,,,,,,,,,,,,,,,

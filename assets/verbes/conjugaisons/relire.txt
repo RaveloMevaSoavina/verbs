@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:relis,relis,relit,relisons,relisez,relisent,,,,,,,,,,,,
+indicatif imparfait:relisais,relisais,relisait,relisions,relisiez,relisaient,,,,,,,,,,,,
+indicatif futur simple:relirai,reliras,relira,relirons,relirez,reliront,,,,,,,,,,,,
+indicatif passé simple:relus,relus,relut,relûmes,relûtes,relurent,,,,,,,,,,,,
+subjonctif présent:relise,relises,relise,relisions,relisiez,relisent,,,,,,,,,,,,
+subjonctif imparfait:relusse,relusses,relÃ»t,relussions,relussiez,relussent,,,,,,,,,,,,
+conditionnel présent:relirais,relirais,relirait,relirions,reliriez,reliraient,,,,,,,,,,,,
+impératif présent:,relis,,relisons,relisez,,,,,,,,,,,,,
+participe présent:,,relisant,,,,,,,,,,,,,,,

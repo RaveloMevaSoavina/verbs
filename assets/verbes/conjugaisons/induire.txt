@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:induis,induis,induit,induisons,induisez,induisent,,,,,,,,,,,,
+indicatif imparfait:induisais,induisais,induisait,induisions,induisiez,induisaient,,,,,,,,,,,,
+indicatif futur simple:induirai,induiras,induira,induirons,induirez,induiront,,,,,,,,,,,,
+indicatif passé simple:induisis,induisis,induisit,induisîmes,induisîtes,induisirent,,,,,,,,,,,,
+subjonctif présent:induise,induises,induise,induisions,induisiez,induisent,,,,,,,,,,,,
+subjonctif imparfait:induisisse,induisisses,induisÃ®t,induisissions,induisissiez,induisissent,,,,,,,,,,,,
+conditionnel présent:induirais,induirais,induirait,induirions,induiriez,induiraient,,,,,,,,,,,,
+impératif présent:,induis,,induisons,induisez,,,,,,,,,,,,,
+participe présent:,,induisant,,,,,,,,,,,,,,,

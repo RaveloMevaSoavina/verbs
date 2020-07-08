@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:écris,écris,écrit,écrivons,écrivez,écrivent,,,,,,,,,,,,
+indicatif imparfait:écrivais,écrivais,écrivait,écrivions,écriviez,écrivaient,,,,,,,,,,,,
+indicatif futur simple:écrirai,écriras,écrira,écrirons,écrirez,écriront,,,,,,,,,,,,
+indicatif passé simple:écrivis,écrivis,écrivit,écrivîmes,écrivîtes,écrivirent,,,,,,,,,,,,
+subjonctif présent:écrive,écrives,écrive,écrivions,écriviez,écrivent,,,,,,,,,,,,
+subjonctif imparfait:écrivisse,écrivisses,écrivît,écrivissions,écrivissiez,écrivissent,,,,,,,,,,,,
+conditionnel présent:écrirais,écrirais,écrirait,écririons,écririez,écriraient,,,,,,,,,,,,
+impératif présent:,écris,,écrivons,écrivez,,,,,,,,,,,,,
+participe présent:,,Ã©crivant,,,,,,,,,,,,,,,

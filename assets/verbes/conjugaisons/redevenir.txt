@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:redeviens,redeviens,redevient,redevenons,redevenez,redeviennent,,,,,,,,,,,,
+indicatif imparfait:redevenais,redevenais,redevenait,redevenions,redeveniez,redevenaient,,,,,,,,,,,,
+indicatif futur simple:redeviendrai,redeviendras,redeviendra,redeviendrons,redeviendrez,redeviendront,,,,,,,,,,,,
+indicatif passé simple:redevins,redevins,redevint,redevînmes,redevîntes,redevinrent,,,,,,,,,,,,
+subjonctif présent:redevienne,redeviennes,redevienne,redevenions,redeveniez,redeviennent,,,,,,,,,,,,
+subjonctif imparfait:redevinsse,redevinsses,redevÃ®nt,redevinssions,redevinssiez,redevinssent,,,,,,,,,,,,
+conditionnel présent:redeviendrais,redeviendrais,redeviendrait,redeviendrions,redeviendriez,redeviendraient,,,,,,,,,,,,
+impératif présent:,redeviens,,redevenons,redevenez,,,,,,,,,,,,,
+participe présent:,,redevenant,,,,,,,,,,,,,,,

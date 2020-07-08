@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:commets,commets,commet,commettons,commettez,commettent,,,,,,,,,,,,
+indicatif imparfait:commettais,commettais,commettait,commettions,commettiez,commettaient,,,,,,,,,,,,
+indicatif futur simple:commettrai,commettras,commettra,commettrons,commettrez,commettront,,,,,,,,,,,,
+indicatif passé simple:commis,commis,commit,commîmes,commîtes,commirent,,,,,,,,,,,,
+subjonctif présent:commette,commettes,commette,commettions,commettiez,commettent,,,,,,,,,,,,
+subjonctif imparfait:commisse,commisses,commÃ®t,commissions,commissiez,commissent,,,,,,,,,,,,
+conditionnel présent:commettrais,commettrais,commettrait,commettrions,commettriez,commettraient,,,,,,,,,,,,
+impératif présent:,commets,,commettons,commettez,,,,,,,,,,,,,
+participe présent:,,commettant,,,,,,,,,,,,,,,

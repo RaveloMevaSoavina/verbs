@@ -1,0 +1,10 @@
+1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
+indicatif présent:défaille,défailles,défaille,défaillons,défaillez,défaillent,,,,,,,,,,,,
+indicatif imparfait:défaillais,défaillais,défaillait,défaillions,défailliez,défaillaient,,,,,,,,,,,,
+indicatif futur simple:défaillirai,défailliras,défaillira,défaillirons,défaillirez,défailliront,,,,,,,,,,,,
+indicatif passé simple:défaillis,défaillis,défaillit,défaillîmes,défaillîtes,défaillirent,,,,,,,,,,,,
+subjonctif présent:défaille,défailles,défaille,défaillions,défailliez,défaillent,,,,,,,,,,,,
+subjonctif imparfait:défaillisse,défaillisses,défaillît,défaillissions,défaillissiez,défaillissent,,,,,,,,,,,,
+conditionnel présent:défaillirais,défaillirais,défaillirait,défaillirions,défailliriez,défailliraient,,,,,,,,,,,,
+impératif présent:,défaille,,défaillons,défaillez,,,,,,,,,,,,,
+participe présent:,,défaillant,,,,,,,,,,,,,,,
