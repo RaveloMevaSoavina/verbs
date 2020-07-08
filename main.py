@@ -132,6 +132,27 @@ class VerbDictionnary:
         with open(filepath, mode='w', encoding='utf-8') as file:
             file.write(str(xml))
 
+    def toCSV(self, filepath: str) -> None:
+        """
+        Exporte le dictionnaire de verbe sous la form d'un fichier csv
+        :param filepath: Le chemin du fichier
+        :return: None
+        """
+        if not filepath.endswith('.csv'):
+            filepath += '.csv'
+        assert not os.path.exists(filepath)
+        with open(filepath, mode='w', encoding='utf-8') as file:
+            file.write(f'forme, groupe, verbe, timecode, entitycode')
+            for groupe in self.groupes:
+                for verbe in self.group2verbs(groupe):
+                    for timecode in TIMECODES:
+                        try:
+                            conj = self.conjugate(verbe, timecode)
+                        except:
+                            conj = {}
+                        for entitycode, formes in conj.items():
+                            for forme in formes:
+                                file.write(f'\n{forme}, {groupe}, {verbe}, {timecode}, {entitycode}')
 
 def mise_en_forme(data):
     pronoms = {
