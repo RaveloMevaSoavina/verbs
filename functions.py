@@ -1,5 +1,6 @@
 import os
 import difflib
+import re
 
 from constants import ENTITYCODES
 
@@ -69,3 +70,30 @@ def close_words(text: str, aliases, threshold: float = 0.75):
 
 def indent(s: str, i: str = '    '):
     return '\n'.join(i + l for l in s.split('\n'))
+
+
+def load_csv(filepath, asDict=False, doInt=True):
+    assert filepath.endswith('.csv') and os.path.exists(filepath)
+    with open(filepath, mode='r', encoding='utf-8') as file:
+        content = ''.join(file.readlines())
+
+    def readline(line, doInt):
+        items = list(map(str.strip, line.split(',')))
+        for item in items:
+            if not item:
+                yield None
+            elif doInt and re.match('^[0-9]+$', item):
+                yield int(item)
+            else:
+                yield item
+
+    headline, *bodylines = content.split('\n')
+
+    keys = readline(headline, False)
+
+    for bodyline in bodylines:
+        values = readline(bodyline, doInt)
+        if asDict:
+            yield dict(zip(keys, values))
+        else:
+            yield list(values)
