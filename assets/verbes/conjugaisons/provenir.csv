@@ -1,0 +1,10 @@
+timecode,1S,2S,3S,1S,2S,3S,3SM,3SF,3PM,3PF
+IND-PR,proviens,proviens,provient,proviens,proviens,provient,,,,
+IND-IM,provenais,provenais,provenait,provenais,provenais,provenait,,,,
+IND-FS,proviendrai,proviendras,proviendra,proviendrai,proviendras,proviendra,,,,
+IND-PS,provins,provins,provint,provins,provins,provint,,,,
+SUB-PR,provienne,proviennes,provienne,provienne,proviennes,provienne,,,,
+SUB-IM,provinsse,provinsses,provÃ®nt,provinsse,provinsses,provÃ®nt,,,,
+CON-PR,proviendrais,proviendrais,proviendrait,proviendrais,proviendrais,proviendrait,,,,
+IMP-PR,,proviens,,,proviens,,,,,
+PAR-PR,,,provenant,,,provenant,,,,

@@ -1,0 +1,10 @@
+timecode,1S,2S,3S,1S,2S,3S,3SM,3SF,3PM,3PF
+IND-PR,dissous,dissous,dissout,dissous,dissous,dissout,,,,
+IND-IM,dissolvais,dissolvais,dissolvait,dissolvais,dissolvais,dissolvait,,,,
+IND-FS,dissoudrai,dissoudras,dissoudra,dissoudrai,dissoudras,dissoudra,,,,
+IND-PS,,,,,,,,,,
+SUB-PR,dissolve,dissolves,dissolve,dissolve,dissolves,dissolve,,,,
+SUB-IM,,,,,,,,,,
+CON-PR,dissoudrais,dissoudrais,dissoudrait,dissoudrais,dissoudrais,dissoudrait,,,,
+IMP-PR,,dissous,,,dissous,,,,,
+PAR-PR,,,dissolvant,,,dissolvant,,,,

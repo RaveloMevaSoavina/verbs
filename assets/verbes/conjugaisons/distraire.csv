@@ -1,0 +1,10 @@
+timecode,1S,2S,3S,1S,2S,3S,3SM,3SF,3PM,3PF
+IND-PR,distrais,distrais,distrait,distrais,distrais,distrait,,,,
+IND-IM,distrayais,distrayais,distrayait,distrayais,distrayais,distrayait,,,,
+IND-FS,distrairai,distrairas,distraira,distrairai,distrairas,distraira,,,,
+IND-PS,,,,,,,,,,
+SUB-PR,distraie,distraies,distraie,distraie,distraies,distraie,,,,
+SUB-IM,,,,,,,,,,
+CON-PR,distrairais,distrairais,distrairait,distrairais,distrairais,distrairait,,,,
+IMP-PR,,distrais,,,distrais,,,,,
+PAR-PR,,,distrayant,,,distrayant,,,,

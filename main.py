@@ -2,6 +2,9 @@ from conjugate_1 import conjugate_1
 from conjugate_2 import conjugate_2
 from functions import *
 from constants import *
+from objects.Entity import Entity
+from objects.Time import Time
+from objects.Verbs import ConjugatedVerb, InfinitiveVerb
 
 
 class VerbDictionnary:
@@ -48,7 +51,13 @@ class VerbDictionnary:
         if groupe in (1, 2):
             method = {1: conjugate_1, 2: conjugate_2}[groupe]
             if entitycode:
-                return list(method(verbe, entitycode, timecode, self.terms[groupe][timecode][entitycode]))
+                terminaison = self.terms[groupe][timecode][entitycode]
+                result = []
+                for word in method(verbe, entitycode, timecode, terminaison):
+                    result.append(
+                        ConjugatedVerb(word, InfinitiveVerb(verbe, groupe), Time(timecode), Entity(entitycode)))
+                return result
+                # return list(method(verbe, entitycode, timecode, self.terms[groupe][timecode][entitycode]))
             else:
                 return dict((entitycode, list(method(verbe, entitycode, timecode, terminaison))) for
                             entitycode, terminaison in
@@ -57,7 +66,11 @@ class VerbDictionnary:
             if verbe in self.terms:
                 if timecode in self.terms[verbe]:
                     if entitycode:
-                        return self.terms[verbe][timecode][entitycode]
+                        result = []
+                        for word in self.terms[verbe][timecode][entitycode]:
+                            result.append(
+                                ConjugatedVerb(word, InfinitiveVerb(verbe, groupe), Time(timecode), Entity(entitycode)))
+                        return result
                     else:
                         return self.terms[verbe][timecode]
                 else:
@@ -78,11 +91,11 @@ class VerbDictionnary:
             3: read_word_file(f'{dirpath}\\infinitifs\\3.txt')
         }
         terms = {
-            1: read_conj_file(f'{dirpath}\\conjugaisons\\1.txt'),
-            2: read_conj_file(f'{dirpath}\\conjugaisons\\2.txt')
+            1: read_conj_file(f'{dirpath}\\conjugaisons\\1.csv'),
+            2: read_conj_file(f'{dirpath}\\conjugaisons\\2.csv')
         }
         for filename in os.listdir(f'{dirpath}\\conjugaisons'):
-            if filename.endswith('.txt') and filename not in ('1.txt', '2.txt'):
+            if filename.endswith('.csv') and filename not in ('1.csv', '2.csv'):
                 verbe = filename.split('.')[0]
                 conj = read_conj_file(f'{dirpath}\\conjugaisons\\{filename}', full=True)
                 if conj.keys():
@@ -95,10 +108,10 @@ class VerbDictionnary:
         os.makedirs(f'{dirpath}\\conjugaisons')
         os.makedirs(f'{dirpath}\\infinitifs')
         for groupe, data in D.terms.items():
-            write_conj_file(f'{dirpath}\\conjugaisons\\{groupe}.txt', data)
+            write_conj_file(f'{dirpath}\\conjugaisons\\{groupe}.csv', data)
 
         for groupe, data in D.groupes.items():
-            write_word_file(f'{dirpath}\\infinitifs\\{groupe}.txt', data)
+            write_word_file(f'{dirpath}\\infinitifs\\{groupe}.csv', data)
 
     def toXMLFile(self, filepath: str):
         """
@@ -118,7 +131,7 @@ class VerbDictionnary:
                 xml_verb = xml.new_tag("verbe", infinitif=verbe, groupe=groupe)
                 xml_dict.append(xml_verb)
 
-                for timecode in TIMECODES:
+                for timecode in Time.timecodes():
                     xml_conj = xml.new_tag("conj", timecode=timecode)
                     try:
                         for entity, words in self.conjugate(verbe, timecode).items():
@@ -187,7 +200,7 @@ if __name__ == '__main__':
     # # affiche les conjugaisons manquantes (verbes ou temps) pour les verbes du 3ème groupe
     # import sys
     # for verbe in D.group2verbs(3):
-    #     for timecode in TIMECODES:
+    #     for timecode in Time.timecodes():
     #         try:
     #             r = D.conjugate(verbe, timecode)
     #         except Exception as e:
@@ -201,8 +214,11 @@ if __name__ == '__main__':
     # ti = time.time()
     # for verbe in D.verbes:
     #     if D.verb2group(verbe) in (1, 2):
-    #         for timecode in TIMECODES:
-    #             D.conjugate(verbe, timecode)
+    #         for timecode in Time.timecodes():
+    #             try:
+    #                 D.conjugate(verbe, timecode)
+    #             except:
+    #                 pass
     # tf = time.time()
     # print(tf - ti)
 
@@ -213,11 +229,13 @@ if __name__ == '__main__':
     #         assert _groupe == groupe, (_groupe, groupe)
 
     # # conjugue le verbe 'accourcir' à tout les temps
-    # for timecode in TIMECODES:
-    #     print(timecode)
-    #     conj = D.conjugate("accourcir", timecode)
-    #     print(mise_en_forme(conj))
-
+    # for timecode in Time.timecodes():
+    #     try:
+    #         conj = D.conjugate("manger", timecode)
+    #         print(Time(timecode).verbose())
+    #         print(mise_en_forme(conj))
+    #     except:
+    #         pass
     # # affiche la liste des verbes du deuxième groupe
     # print(D.group2verbs(2))
 
@@ -226,7 +244,7 @@ if __name__ == '__main__':
     #     if groupe in [2]:
     #         for verbe in D.group2verbs(groupe):
     #             print(verbe)
-    #             for timecode in TIMECODES:
+    #             for timecode in Time.timecodes():
     #                 print('  '+timecode)
     #                 print(mise_en_forme(D.conjugaisons(verbe, timecode)))
 

@@ -1,9 +1,0 @@
-1S,2S,3S,1P,2P,3P,1SM,2SM,3SM,1PM,2PM,3PM,1SF,2SF,3SF,1PF,2PF,3PF
-indicatif présent:déchois,déchois,déchoit/déchet,déchoyons,déchoyez,déchoient,,,,,,,,,,,,
-indicatif imparfait:déchoyais,déchoyais,déchoyait,déchoyions,déchoyiez,déchoyaient,,,,,,,,,,,,
-indicatif futur simple:déchoirai,déchoiras,déchoira,déchoirons,déchoirez,déchoiront,,,,,,,,,,,,
-indicatif passé simple:déchus,déchus,déchut,déchûmes,déchûtes,déchurent,,,,,,,,,,,,
-subjonctif présent:déchoie,déchoies,déchoie,déchoyions,déchoyiez,déchoient,,,,,,,,,,,,
-subjonctif imparfait:déchusse,déchusses,déchût,déchussions,déchussiez,déchussent,,,,,,,,,,,,
-conditionnel présent:déchoirais,déchoirais,déchoirait,déchoirions,déchoiriez,déchoiraient,,,,,,,,,,,,
-impératif présent:,,,,,,,,,,,,,,,,,

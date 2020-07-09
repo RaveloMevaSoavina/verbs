@@ -1,0 +1,10 @@
+timecode,1S,2S,3S,1S,2S,3S,3SM,3SF,3PM,3PF
+IND-PR,deviens,deviens,devient,deviens,deviens,devient,,,,
+IND-IM,devenais,devenais,devenait,devenais,devenais,devenait,,,,
+IND-FS,deviendrai,deviendras,deviendra,deviendrai,deviendras,deviendra,,,,
+IND-PS,devins,devins,devint,devins,devins,devint,,,,
+SUB-PR,devienne,deviennes,devienne,devienne,deviennes,devienne,,,,
+SUB-IM,devinsse,devinsses,devÃ®nt,devinsse,devinsses,devÃ®nt,,,,
+CON-PR,deviendrais,deviendrais,deviendrait,deviendrais,deviendrais,deviendrait,,,,
+IMP-PR,,deviens,,,deviens,,,,,
+PAR-PR,,,devenant,,,devenant,,,,

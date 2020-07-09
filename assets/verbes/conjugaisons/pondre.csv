@@ -1,0 +1,10 @@
+timecode,1S,2S,3S,1S,2S,3S,3SM,3SF,3PM,3PF
+IND-PR,ponds,ponds,pond,ponds,ponds,pond,,,,
+IND-IM,pondais,pondais,pondait,pondais,pondais,pondait,,,,
+IND-FS,pondrai,pondras,pondra,pondrai,pondras,pondra,,,,
+IND-PS,pondis,pondis,pondit,pondis,pondis,pondit,,,,
+SUB-PR,ponde,pondes,ponde,ponde,pondes,ponde,,,,
+SUB-IM,pondisse,pondisses,pondÃ®t,pondisse,pondisses,pondÃ®t,,,,
+CON-PR,pondrais,pondrais,pondrait,pondrais,pondrais,pondrait,,,,
+IMP-PR,,ponds,,,ponds,,,,,
+PAR-PR,,,pondant,,,pondant,,,,

@@ -1,0 +1,10 @@
+timecode,1S,2S,3S,1S,2S,3S,3SM,3SF,3PM,3PF
+IND-PR,enfreins,enfreins,enfreint,enfreins,enfreins,enfreint,,,,
+IND-IM,enfreignais,enfreignais,enfreignait,enfreignais,enfreignais,enfreignait,,,,
+IND-FS,enfreindrai,enfreindras,enfreindra,enfreindrai,enfreindras,enfreindra,,,,
+IND-PS,enfreignis,enfreignis,enfreignit,enfreignis,enfreignis,enfreignit,,,,
+SUB-PR,enfreigne,enfreignes,enfreigne,enfreigne,enfreignes,enfreigne,,,,
+SUB-IM,enfreignisse,enfreignisses,enfreignÃ®t,enfreignisse,enfreignisses,enfreignÃ®t,,,,
+CON-PR,enfreindrais,enfreindrais,enfreindrait,enfreindrais,enfreindrais,enfreindrait,,,,
+IMP-PR,,enfreins,,,enfreins,,,,,
+PAR-PR,,,enfreignant,,,enfreignant,,,,

@@ -1,0 +1,10 @@
+timecode,1S,2S,3S,1S,2S,3S,3SM,3SF,3PM,3PF
+IND-PR,redeviens,redeviens,redevient,redeviens,redeviens,redevient,,,,
+IND-IM,redevenais,redevenais,redevenait,redevenais,redevenais,redevenait,,,,
+IND-FS,redeviendrai,redeviendras,redeviendra,redeviendrai,redeviendras,redeviendra,,,,
+IND-PS,redevins,redevins,redevint,redevins,redevins,redevint,,,,
+SUB-PR,redevienne,redeviennes,redevienne,redevienne,redeviennes,redevienne,,,,
+SUB-IM,redevinsse,redevinsses,redevÃ®nt,redevinsse,redevinsses,redevÃ®nt,,,,
+CON-PR,redeviendrais,redeviendrais,redeviendrait,redeviendrais,redeviendrais,redeviendrait,,,,
+IMP-PR,,redeviens,,,redeviens,,,,,
+PAR-PR,,,redevenant,,,redevenant,,,,

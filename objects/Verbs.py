@@ -39,6 +39,8 @@ class ConjugatedVerb:
     time: Time
     entity: Entity
 
+    entitycodes = ('1S', '2S', '3S', '1S', '2S', '3S', '3SM', '3SF', '3PM', '3PF')
+
     def __init__(self, word: str, infinitive: InfinitiveVerb, time: Time, entity: Entity):
         assert entity.code in time.entitycodes, (time.mood, time.tense, entity.code, time.entitycodes)
         self.word = word
@@ -57,13 +59,13 @@ class ConjugatedVerb:
 
 
 
-# from functions import load_csv
+# from functions import read_csv
 # if __name__ == '__main__':
-#     for word, group in load_csv('../assets/verbes/infinitifs.csv'):
+#     for word, group in read_csv('../assets/verbes/infinitifs.csv'):
 #         verb = InfinitiveVerb(word, group)
 #         print(verb)
 #
-#     for word, group, verb, timecode, entitycode in load_csv('../assets/verbes/conjugués.csv'):
+#     for word, group, verb, timecode, entitycode in read_csv('../assets/verbes/conjugués.csv'):
 #         verb = InfinitiveVerb(verb, group)
 #         time = Time(convert_timecode.get(timecode, timecode))
 #         entity = Entity(entitycode)

@@ -1,0 +1,10 @@
+timecode,1S,2S,3S,1S,2S,3S,3SM,3SF,3PM,3PF
+IND-PR,m'entremets,t'entremets,s'entremet,m'entremets,t'entremets,s'entremet,,,,
+IND-IM,m'entremettais,t'entremettais,s'entremettait,m'entremettais,t'entremettais,s'entremettait,,,,
+IND-FS,m'entremettrai,t'entremettras,s'entremettra,m'entremettrai,t'entremettras,s'entremettra,,,,
+IND-PS,m'entremis,t'entremis,s'entremit,m'entremis,t'entremis,s'entremit,,,,
+SUB-PR,m'entremette,t'entremettes,s'entremette,m'entremette,t'entremettes,s'entremette,,,,
+SUB-IM,m'entremisse,t'entremisses,s'entremÃ®t,m'entremisse,t'entremisses,s'entremÃ®t,,,,
+CON-PR,m'entremettrais,t'entremettrais,s'entremettrait,m'entremettrais,t'entremettrais,s'entremettrait,,,,
+IMP-PR,,t'entremets,,,t'entremets,,,,,
+PAR-PR,,,m'entremettant,,,m'entremettant,,,,

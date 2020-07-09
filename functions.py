@@ -2,11 +2,11 @@ import os
 import difflib
 import re
 
-from constants import ENTITYCODES
+from objects.Verbs import ConjugatedVerb
 
 
 def read_word_file(filepath: str):
-    assert os.path.exists(filepath) and os.path.isfile(filepath) and filepath.endswith('.txt')
+    assert os.path.exists(filepath) and os.path.isfile(filepath) and filepath.endswith('.txt'), filepath
     with open(filepath, mode='r', encoding='utf-8') as file:
         return list(filter(len, map(str.strip, file.readlines())))
 
@@ -17,31 +17,21 @@ def write_word_file(filepath: str, data: dict):
 
 
 def write_conj_file(filepath: str, data: dict):
-    with open(filepath, mode='w', encoding='utf-8') as file:
-        file.write(','.join(ENTITYCODES) + '\n')
-        file.write('\n'.join(
-            timecode + ':' + ','.join(terms.get(entitycode, '') for entitycode in ENTITYCODES) for timecode, terms in
-            data.items()))
+    entitycodes = ['timecode', ConjugatedVerb.entitycodes]
+    rows = [dict(timecode=timecode, **sdata) for timecode, sdata in data.items()]
+    write_csv(filepath, keys=entitycodes, rows=rows)
 
 
 def read_conj_file(filepath: str, full: bool = False):
-    assert os.path.exists(filepath) and os.path.isfile(filepath) and filepath.endswith('.txt')
-    with open(filepath, mode='r', encoding='utf-8') as file:
-        entitycodes = list(map(str.strip, file.readline().strip().split(',')))
-        result = {}
-        for line in filter(len, map(str.strip, file.readlines())):
-            if ':' in line:
-                timecode, terms_string = map(str.strip, line.split(':'))
-                conjugaison = {}
-                terminaisons = map(str.strip, terms_string.split(','))
-                for entitycode, terminaison in zip(entitycodes, terminaisons):
-                    if terminaison:
-                        if full:
-                            conjugaison[entitycode] = list(map(str.strip, terminaison.split('/')))
-                        else:
-                            conjugaison[entitycode] = terminaison
-                result[timecode] = conjugaison
-        return result
+    result = {}
+    for row in read_csv(filepath, asDict=True):
+        if len(row.keys()):
+            timecode = row.pop('timecode')
+            todelete = [key for key, val in row.items() if val is None]
+            for key in todelete:
+                del row[key]
+            result[timecode] = row
+    return result
 
 
 def endswith(string: str, *ends):
@@ -72,8 +62,27 @@ def indent(s: str, i: str = '    '):
     return '\n'.join(i + l for l in s.split('\n'))
 
 
-def load_csv(filepath, asDict=False, doInt=True):
-    assert filepath.endswith('.csv') and os.path.exists(filepath)
+def write_csv(filepath: str, keys, rows):
+    assert isinstance(filepath, str)
+    if not filepath.endswith('.csv'):
+        filepath += '.csv'
+
+    headline = ','.join(map(str, keys))
+
+    bodylines = [','.join(str(row.get(key, '')) for key in keys) for row in rows]
+
+    content = '\n'.join((headline, *bodylines))
+
+    with open(filepath, mode='w', encoding='utf-8') as file:
+        file.write(content)
+
+
+def read_csv(filepath: str, asDict=False, doInt=True):
+    assert isinstance(filepath, str)
+    if not filepath.endswith('.csv'):
+        filepath += '.csv'
+
+    assert os.path.exists(filepath), filepath
     with open(filepath, mode='r', encoding='utf-8') as file:
         content = ''.join(file.readlines())
 
@@ -89,7 +98,7 @@ def load_csv(filepath, asDict=False, doInt=True):
 
     headline, *bodylines = content.split('\n')
 
-    keys = readline(headline, False)
+    keys = tuple(readline(headline, False))
 
     for bodyline in bodylines:
         values = readline(bodyline, doInt)

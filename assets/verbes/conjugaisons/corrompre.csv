@@ -1,0 +1,10 @@
+timecode,1S,2S,3S,1S,2S,3S,3SM,3SF,3PM,3PF
+IND-PR,corromps,corromps,corrompt,corromps,corromps,corrompt,,,,
+IND-IM,corrompais,corrompais,corrompait,corrompais,corrompais,corrompait,,,,
+IND-FS,corromprai,corrompras,corrompra,corromprai,corrompras,corrompra,,,,
+IND-PS,corrompis,corrompis,corrompit,corrompis,corrompis,corrompit,,,,
+SUB-PR,corrompe,corrompes,corrompe,corrompe,corrompes,corrompe,,,,
+SUB-IM,corrompisse,corrompisses,corrompÃ®t,corrompisse,corrompisses,corrompÃ®t,,,,
+CON-PR,corromprais,corromprais,corromprait,corromprais,corromprais,corromprait,,,,
+IMP-PR,,corromps,,,corromps,,,,,
+PAR-PR,,,corrompant,,,corrompant,,,,

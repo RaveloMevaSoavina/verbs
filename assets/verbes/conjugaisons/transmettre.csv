@@ -1,0 +1,10 @@
+timecode,1S,2S,3S,1S,2S,3S,3SM,3SF,3PM,3PF
+IND-PR,transmets,transmets,transmet,transmets,transmets,transmet,,,,
+IND-IM,transmettais,transmettais,transmettait,transmettais,transmettais,transmettait,,,,
+IND-FS,transmettrai,transmettras,transmettra,transmettrai,transmettras,transmettra,,,,
+IND-PS,transmis,transmis,transmit,transmis,transmis,transmit,,,,
+SUB-PR,transmette,transmettes,transmette,transmette,transmettes,transmette,,,,
+SUB-IM,transmisse,transmisses,transmÃ®t,transmisse,transmisses,transmÃ®t,,,,
+CON-PR,transmettrais,transmettrais,transmettrait,transmettrais,transmettrais,transmettrait,,,,
+IMP-PR,,transmets,,,transmets,,,,,
+PAR-PR,,,transmettant,,,transmettant,,,,

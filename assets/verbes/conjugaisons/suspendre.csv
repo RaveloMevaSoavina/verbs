@@ -1,0 +1,10 @@
+timecode,1S,2S,3S,1S,2S,3S,3SM,3SF,3PM,3PF
+IND-PR,suspends,suspends,suspend,suspends,suspends,suspend,,,,
+IND-IM,suspendais,suspendais,suspendait,suspendais,suspendais,suspendait,,,,
+IND-FS,suspendrai,suspendras,suspendra,suspendrai,suspendras,suspendra,,,,
+IND-PS,suspendis,suspendis,suspendit,suspendis,suspendis,suspendit,,,,
+SUB-PR,suspende,suspendes,suspende,suspende,suspendes,suspende,,,,
+SUB-IM,suspendisse,suspendisses,suspendÃ®t,suspendisse,suspendisses,suspendÃ®t,,,,
+CON-PR,suspendrais,suspendrais,suspendrait,suspendrais,suspendrais,suspendrait,,,,
+IMP-PR,,suspends,,,suspends,,,,,
+PAR-PR,,,suspendant,,,suspendant,,,,

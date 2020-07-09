@@ -1,0 +1,10 @@
+timecode,1S,2S,3S,1S,2S,3S,3SM,3SF,3PM,3PF
+IND-PR,faux,faux,faut,faux,faux,faut,,,,
+IND-IM,faillais,faillais,faillait,faillais,faillais,faillait,,,,
+IND-FS,faillirai,failliras,faillira,faillirai,failliras,faillira,,,,
+IND-PS,faillis,faillis,faillit,faillis,faillis,faillit,,,,
+SUB-PR,faillisse,faillisses,faillisse,faillisse,faillisses,faillisse,,,,
+SUB-IM,faillisse,faillisses,faillÃ®t,faillisse,faillisses,faillÃ®t,,,,
+CON-PR,faillirais,faillirais,faillirait,faillirais,faillirais,faillirait,,,,
+IMP-PR,,,,,,,,,,
+PAR-PR,,,faillant,,,faillant,,,,

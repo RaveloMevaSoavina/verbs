@@ -1,0 +1,10 @@
+timecode,1S,2S,3S,1S,2S,3S,3SM,3SF,3PM,3PF
+IND-PR,tonds,tonds,tond,tonds,tonds,tond,,,,
+IND-IM,tondais,tondais,tondait,tondais,tondais,tondait,,,,
+IND-FS,tondrai,tondras,tondra,tondrai,tondras,tondra,,,,
+IND-PS,tondis,tondis,tondit,tondis,tondis,tondit,,,,
+SUB-PR,tonde,tondes,tonde,tonde,tondes,tonde,,,,
+SUB-IM,tondisse,tondisses,tondÃ®t,tondisse,tondisses,tondÃ®t,,,,
+CON-PR,tondrais,tondrais,tondrait,tondrais,tondrais,tondrait,,,,
+IMP-PR,,tonds,,,tonds,,,,,
+PAR-PR,,,tondant,,,tondant,,,,

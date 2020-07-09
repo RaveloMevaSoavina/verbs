@@ -1,0 +1,10 @@
+timecode,1S,2S,3S,1S,2S,3S,3SM,3SF,3PM,3PF
+IND-PR,pleut,pleuvent,,pleut,pleuvent,,,,,
+IND-IM,pleuvait,pleuvaient,,pleuvait,pleuvaient,,,,,
+IND-FS,pleuvra,pleuvront,,pleuvra,pleuvront,,,,,
+IND-PS,,,plut,,,plut,,,,
+SUB-PR,pleuve,pleuvent,,pleuve,pleuvent,,,,,
+SUB-IM,,,plût,,,plût,,,,
+CON-PR,pleuvrait,pleuvraient,,pleuvrait,pleuvraient,,,,,
+IMP-PR,,,,,,,,,,
+PAR-PR,,,pleuvant,,,pleuvant,,,,

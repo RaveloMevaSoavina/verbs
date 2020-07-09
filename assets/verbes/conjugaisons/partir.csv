@@ -1,0 +1,10 @@
+timecode,1S,2S,3S,1S,2S,3S,3SM,3SF,3PM,3PF
+IND-PR,pars,pars,part,pars,pars,part,,,,
+IND-IM,partais,partais,partait,partais,partais,partait,,,,
+IND-FS,partirai,partiras,partira,partirai,partiras,partira,,,,
+IND-PS,partis,partis,partit,partis,partis,partit,,,,
+SUB-PR,parte,partes,parte,parte,partes,parte,,,,
+SUB-IM,partisse,partisses,partÃ®t,partisse,partisses,partÃ®t,,,,
+CON-PR,partirais,partirais,partirait,partirais,partirais,partirait,,,,
+IMP-PR,,pars,,,pars,,,,,
+PAR-PR,,,partant,,,partant,,,,

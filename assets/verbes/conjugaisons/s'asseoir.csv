@@ -1,0 +1,10 @@
+timecode,1S,2S,3S,1S,2S,3S,3SM,3SF,3PM,3PF
+IND-PR,m'assieds/assois,t'assieds/assois,s'assied/assoit,m'assieds/assois,t'assieds/assois,s'assied/assoit,,,,
+IND-IM,m'asseyais/assoyais,t'asseyais/assoyais,s'asseyait/assoyait,m'asseyais/assoyais,t'asseyais/assoyais,s'asseyait/assoyait,,,,
+IND-FS,m'assiérai/asseyerai/assoirai,t'assiéras/asseyeras/assoiras,s'assiéra/asseyera/assoira,m'assiérai/asseyerai/assoirai,t'assiéras/asseyeras/assoiras,s'assiéra/asseyera/assoira,,,,
+IND-PS,m'assis,t'assis,s'assit,m'assis,t'assis,s'assit,,,,
+SUB-PR,m'asseye/assoie,t'asseyes/assoies,s'asseye/assoie,m'asseye/assoie,t'asseyes/assoies,s'asseye/assoie,,,,
+SUB-IM,m'assisse,t'assisses,s'assÃ®t,m'assisse,t'assisses,s'assÃ®t,,,,
+CON-PR,m'assiérais/asseyerais/assoirais,t'assiérais/asseyerais/assoirais,s'assiérait/asseyerait/assoirait,m'assiérais/asseyerais/assoirais,t'assiérais/asseyerais/assoirais,s'assiérait/asseyerait/assoirait,,,,
+IMP-PR,,t'assieds/assois,,,t'assieds/assois,,,,,
+PAR-PR,,,m'asseyant,,,m'asseyant,,,,

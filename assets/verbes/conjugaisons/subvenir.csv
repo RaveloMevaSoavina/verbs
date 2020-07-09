@@ -1,0 +1,10 @@
+timecode,1S,2S,3S,1S,2S,3S,3SM,3SF,3PM,3PF
+IND-PR,subviens,subviens,subvient,subviens,subviens,subvient,,,,
+IND-IM,subvenais,subvenais,subvenait,subvenais,subvenais,subvenait,,,,
+IND-FS,subviendrai,subviendras,subviendra,subviendrai,subviendras,subviendra,,,,
+IND-PS,subvins,subvins,subvint,subvins,subvins,subvint,,,,
+SUB-PR,subvienne,subviennes,subvienne,subvienne,subviennes,subvienne,,,,
+SUB-IM,subvinsse,subvinsses,subvÃ®nt,subvinsse,subvinsses,subvÃ®nt,,,,
+CON-PR,subviendrais,subviendrais,subviendrait,subviendrais,subviendrais,subviendrait,,,,
+IMP-PR,,subviens,,,subviens,,,,,
+PAR-PR,,,subvenant,,,subvenant,,,,

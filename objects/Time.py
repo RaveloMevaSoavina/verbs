@@ -37,14 +37,37 @@ class Time:
             PR : PRésent
             PA : PAssé
     """
+    _verbose = {
+        "IND": "indicatif",
+        "SUB": "subjonctif",
+        "CON": "conditionnel",
+        "IMP": "impératif",
+        "PAR": "participe",
+        "INF": "infinitif",
+        "GER": "gérondif"
+    }
     classes = {
-        'IND': ('PR', 'PC', 'IM', 'PP', 'PS', 'PA', 'FS', 'FA'),
-        'SUB': ('PR', 'PA', 'IM', 'PP'),
-        'CON': ('PR', 'P1', 'P2'),
-        'IMP': ('PR', 'PA'),
-        'PAR': ('PR', 'PA'),
-        'INF': ('PR', 'PA'),
-        'GER': ('PR', 'PA')
+        'IND': {
+            'PR': "présent",
+            'PC': "passé composé",
+            'IM': "imparfait",
+            'PP': "plus-que-parfait",
+            'PS': "passé simple",
+            'PA': "passé antérieur",
+            'FS': "futur simple",
+            'FA': "futur antérieur"
+        },
+        'SUB': {
+            'PR': "présent",
+            'PC': "passé composé",
+            'IM': "imparfait",
+            'PP': "plus-que-parfait"
+        },
+        'CON': {'PR': "présent", 'P1': "passé (1ère forme)", 'P2': "passé (2ème forme)"},
+        'IMP': {'PR': "présent", 'PA': "passé"},
+        'PAR': {'PR': "présent", 'PA': "passé"},
+        'INF': {'PR': "présent", 'PA': "passé"},
+        'GER': {'PR': "présent", 'PA': "passé"}
     }
 
     def __init__(self, code):
@@ -56,6 +79,15 @@ class Time:
 
     def __hash__(self):
         return self.code.__hash__()
+
+    def verbose(self):
+        return Time.classes[self.mood][self.tense] + ' (' + Time._verbose[self.mood] + ')'
+
+    @classmethod
+    def timecodes(self):
+        for mood, tenses in self.classes.items():
+            for tense in tenses:
+                yield f"{mood}-{tense}"
 
     @property
     def code(self):

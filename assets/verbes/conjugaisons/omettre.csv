@@ -1,0 +1,10 @@
+timecode,1S,2S,3S,1S,2S,3S,3SM,3SF,3PM,3PF
+IND-PR,omets,omets,omet,omets,omets,omet,,,,
+IND-IM,omettais,omettais,omettait,omettais,omettais,omettait,,,,
+IND-FS,omettrai,omettras,omettra,omettrai,omettras,omettra,,,,
+IND-PS,omis,omis,omit,omis,omis,omit,,,,
+SUB-PR,omette,omettes,omette,omette,omettes,omette,,,,
+SUB-IM,omisse,omisses,omÃ®t,omisse,omisses,omÃ®t,,,,
+CON-PR,omettrais,omettrais,omettrait,omettrais,omettrais,omettrait,,,,
+IMP-PR,,omets,,,omets,,,,,
+PAR-PR,,,omettant,,,omettant,,,,

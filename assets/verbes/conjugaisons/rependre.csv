@@ -1,0 +1,10 @@
+timecode,1S,2S,3S,1S,2S,3S,3SM,3SF,3PM,3PF
+IND-PR,repends,repends,repend,repends,repends,repend,,,,
+IND-IM,rependais,rependais,rependait,rependais,rependais,rependait,,,,
+IND-FS,rependrai,rependras,rependra,rependrai,rependras,rependra,,,,
+IND-PS,rependis,rependis,rependit,rependis,rependis,rependit,,,,
+SUB-PR,repende,rependes,repende,repende,rependes,repende,,,,
+SUB-IM,rependisse,rependisses,rependÃ®t,rependisse,rependisses,rependÃ®t,,,,
+CON-PR,rependrais,rependrais,rependrait,rependrais,rependrais,rependrait,,,,
+IMP-PR,,repends,,,repends,,,,,
+PAR-PR,,,rependant,,,rependant,,,,

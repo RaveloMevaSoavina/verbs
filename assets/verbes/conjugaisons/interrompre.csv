@@ -1,0 +1,10 @@
+timecode,1S,2S,3S,1S,2S,3S,3SM,3SF,3PM,3PF
+IND-PR,interromps,interromps,interrompt,interromps,interromps,interrompt,,,,
+IND-IM,interrompais,interrompais,interrompait,interrompais,interrompais,interrompait,,,,
+IND-FS,interromprai,interrompras,interrompra,interromprai,interrompras,interrompra,,,,
+IND-PS,interrompis,interrompis,interrompit,interrompis,interrompis,interrompit,,,,
+SUB-PR,interrompe,interrompes,interrompe,interrompe,interrompes,interrompe,,,,
+SUB-IM,interrompisse,interrompisses,interrompÃ®t,interrompisse,interrompisses,interrompÃ®t,,,,
+CON-PR,interromprais,interromprais,interromprait,interromprais,interromprais,interromprait,,,,
+IMP-PR,,interromps,,,interromps,,,,,
+PAR-PR,,,interrompant,,,interrompant,,,,

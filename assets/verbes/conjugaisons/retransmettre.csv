@@ -1,0 +1,10 @@
+timecode,1S,2S,3S,1S,2S,3S,3SM,3SF,3PM,3PF
+IND-PR,retransmets,retransmets,retransmet,retransmets,retransmets,retransmet,,,,
+IND-IM,retransmettais,retransmettais,retransmettait,retransmettais,retransmettais,retransmettait,,,,
+IND-FS,retransmettrai,retransmettras,retransmettra,retransmettrai,retransmettras,retransmettra,,,,
+IND-PS,retransmis,retransmis,retransmit,retransmis,retransmis,retransmit,,,,
+SUB-PR,retransmette,retransmettes,retransmette,retransmette,retransmettes,retransmette,,,,
+SUB-IM,retransmisse,retransmisses,retransmÃ®t,retransmisse,retransmisses,retransmÃ®t,,,,
+CON-PR,retransmettrais,retransmettrais,retransmettrait,retransmettrais,retransmettrais,retransmettrait,,,,
+IMP-PR,,retransmets,,,retransmets,,,,,
+PAR-PR,,,retransmettant,,,retransmettant,,,,

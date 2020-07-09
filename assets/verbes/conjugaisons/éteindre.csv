@@ -1,0 +1,10 @@
+timecode,1S,2S,3S,1S,2S,3S,3SM,3SF,3PM,3PF
+IND-PR,éteins,éteins,éteint,éteins,éteins,éteint,,,,
+IND-IM,éteignais,éteignais,éteignait,éteignais,éteignais,éteignait,,,,
+IND-FS,éteindrai,éteindras,éteindra,éteindrai,éteindras,éteindra,,,,
+IND-PS,éteignis,éteignis,éteignit,éteignis,éteignis,éteignit,,,,
+SUB-PR,éteigne,éteignes,éteigne,éteigne,éteignes,éteigne,,,,
+SUB-IM,éteignisse,éteignisses,éteignît,éteignisse,éteignisses,éteignît,,,,
+CON-PR,éteindrais,éteindrais,éteindrait,éteindrais,éteindrais,éteindrait,,,,
+IMP-PR,,éteins,,,éteins,,,,,
+PAR-PR,,,Ã©teignant,,,Ã©teignant,,,,

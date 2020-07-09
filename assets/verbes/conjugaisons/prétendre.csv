@@ -1,0 +1,10 @@
+timecode,1S,2S,3S,1S,2S,3S,3SM,3SF,3PM,3PF
+IND-PR,prétends,prétends,prétend,prétends,prétends,prétend,,,,
+IND-IM,prétendais,prétendais,prétendait,prétendais,prétendais,prétendait,,,,
+IND-FS,prétendrai,prétendras,prétendra,prétendrai,prétendras,prétendra,,,,
+IND-PS,prétendis,prétendis,prétendit,prétendis,prétendis,prétendit,,,,
+SUB-PR,prétende,prétendes,prétende,prétende,prétendes,prétende,,,,
+SUB-IM,prétendisse,prétendisses,prétendît,prétendisse,prétendisses,prétendît,,,,
+CON-PR,prétendrais,prétendrais,prétendrait,prétendrais,prétendrais,prétendrait,,,,
+IMP-PR,,prétends,,,prétends,,,,,
+PAR-PR,,,prétendant,,,prétendant,,,,

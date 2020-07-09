@@ -1,0 +1,10 @@
+timecode,1S,2S,3S,1S,2S,3S,3SM,3SF,3PM,3PF
+IND-PR,maintiens,maintiens,maintient,maintiens,maintiens,maintient,,,,
+IND-IM,maintenais,maintenais,maintenait,maintenais,maintenais,maintenait,,,,
+IND-FS,maintiendrai,maintiendras,maintiendra,maintiendrai,maintiendras,maintiendra,,,,
+IND-PS,maintins,maintins,maintint,maintins,maintins,maintint,,,,
+SUB-PR,maintienne,maintiennes,maintienne,maintienne,maintiennes,maintienne,,,,
+SUB-IM,maintinsse,maintinsses,maintÃ®nt,maintinsse,maintinsses,maintÃ®nt,,,,
+CON-PR,maintiendrais,maintiendrais,maintiendrait,maintiendrais,maintiendrais,maintiendrait,,,,
+IMP-PR,,maintiens,,,maintiens,,,,,
+PAR-PR,,,maintenant,,,maintenant,,,,

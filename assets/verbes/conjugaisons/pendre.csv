@@ -1,0 +1,10 @@
+timecode,1S,2S,3S,1S,2S,3S,3SM,3SF,3PM,3PF
+IND-PR,pends,pends,pend,pends,pends,pend,,,,
+IND-IM,pendais,pendais,pendait,pendais,pendais,pendait,,,,
+IND-FS,pendrai,pendras,pendra,pendrai,pendras,pendra,,,,
+IND-PS,pendis,pendis,pendit,pendis,pendis,pendit,,,,
+SUB-PR,pende,pendes,pende,pende,pendes,pende,,,,
+SUB-IM,pendisse,pendisses,pendÃ®t,pendisse,pendisses,pendÃ®t,,,,
+CON-PR,pendrais,pendrais,pendrait,pendrais,pendrais,pendrait,,,,
+IMP-PR,,pends,,,pends,,,,,
+PAR-PR,,,pendant,,,pendant,,,,
