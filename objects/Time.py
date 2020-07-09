@@ -59,7 +59,7 @@ class Time:
         },
         'SUB': {
             'PR': "présent",
-            'PC': "passé composé",
+            'PA': "passé",
             'IM': "imparfait",
             'PP': "plus-que-parfait"
         },
@@ -72,13 +72,16 @@ class Time:
 
     def __init__(self, code):
         mood, tense = code.split('-')
-        assert mood in Time.classes
-        assert tense in Time.classes[mood]
+        assert mood in Time.classes, f"{mood} is not a valid mood"
+        assert tense in Time.classes[mood], f"{tense} is not a valid tense in {mood}"
         self.mood = mood
         self.tense = tense
 
     def __hash__(self):
         return self.code.__hash__()
+
+    def __repr__(self):
+        return f"Time({self.code})"
 
     def verbose(self):
         return Time.classes[self.mood][self.tense] + ' (' + Time._verbose[self.mood] + ')'
@@ -104,7 +107,7 @@ class Time:
             if self.tense == 'PR':
                 return '3S',
             elif self.tense == 'PA':
-                return '3SM', '3SF', '3PM', '3PF'
+                return '3SM', '3PM', '3SF', '3PF'
             else:
                 raise Exception
         else:
@@ -123,4 +126,30 @@ convert_timecode = {
     'impératif présent': 'IMP-PR',
     'participe présent': 'PAR-PR',
     'participe passé': 'PAR-PA'
+}
+
+VERBECC_MOOD_CONV = {
+    'infinitif': 'INF',
+    'indicatif': 'IND',
+    'conditionnel': 'CON',
+    'subjonctif': 'SUB',
+    'imperatif': 'IMP',
+    'participe': 'PAR'
+}
+
+VERBECC_TENSE_CONV = {
+    'infinitif-présent': 'PR',
+    'présent': 'PR',
+    'imparfait': 'IM',
+    'futur-simple': 'FS',
+    'passé-simple': 'PS',
+    'passé-composé': 'PC',
+    'plus-que-parfait': 'PP',
+    'futur-antérieur': 'FA',
+    'passé-antérieur': 'PA',
+    'passé': 'PA',
+    'imperatif-présent': 'PR',
+    'imperatif-passé': 'PA',
+    'participe-présent': 'PR',
+    'participe-passé': 'PA',
 }
